@@ -1,13 +1,23 @@
 [
   {
-    "projectName": "Downtown Tower",
+    "projectName": "Balliol Tower_PPM",
     "scopes": [
-      { "scopeName": "Concrete", "estimator": "Devin" },
-      { "scopeName": "Mechanical", "estimator": "Alex" }
+      { "scopeName": "Window Coverings", "estimator": "Merlita" },
+      { "scopeName": "Misc Glazing", "estimator": "Ricky" },
+      { "scopeName": "Carpentry", "estimator": "Ricky" },
+      { "scopeName": "Flooring", "estimator": "Devin" }
     ]
   },
   {
-    "projectName": "Riverfront Mall",
+    "projectName": "Mill Road Tower_PPM",
+    "scopes": [
+      { "scopeName": "Glazing", "estimator": "Gabriela" },
+      { "scopeName": "Caulking", "estimator": "Gabriela" },
+      { "scopeName": "Misc Insulation", "estimator": "Gabriela" },
+      { "scopeName": "Flooring", "estimator": "TBD" },
+      { "scopeName": "Carpentry", "estimator": "TBD" },
+      { "scopeName": "Drywall", "estimator": "Gabriela" }
+    ]
     "scopes": [
       { "scopeName": "Structural Steel", "estimator": "Jordan" }
     ]
