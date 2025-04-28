@@ -1,0 +1,15 @@
+[
+  {
+    "projectName": "Downtown Tower",
+    "scopes": [
+      { "scopeName": "Concrete", "estimator": "Devin" },
+      { "scopeName": "Mechanical", "estimator": "Alex" }
+    ]
+  },
+  {
+    "projectName": "Riverfront Mall",
+    "scopes": [
+      { "scopeName": "Structural Steel", "estimator": "Jordan" }
+    ]
+  }
+]

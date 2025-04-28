@@ -1,0 +1,19 @@
+fetch('data/projects.json')
+  .then(response => response.json())
+  .then(projects => {
+    const container = document.getElementById('projects-container');
+    projects.forEach(project => {
+      const projectDiv = document.createElement('div');
+      projectDiv.className = 'project';
+      projectDiv.innerHTML = `
+        <h2>${project.projectName}</h2>
+        <ul>
+          ${project.scopes.map(scope => `
+            <li class="scope"><strong>${scope.scopeName}</strong> — Estimator: ${scope.estimator}</li>
+          `).join('')}
+        </ul>
+      `;
+      container.appendChild(projectDiv);
+    });
+  })
+  .catch(error => console.error('Error loading project data:', error));
