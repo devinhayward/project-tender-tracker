@@ -18,8 +18,5 @@
       { "scopeName": "Carpentry", "estimator": "TBD" },
       { "scopeName": "Drywall", "estimator": "Gabriela" }
     ]
-    "scopes": [
-      { "scopeName": "Structural Steel", "estimator": "Jordan" }
-    ]
   }
 ]
