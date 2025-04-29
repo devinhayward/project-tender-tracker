@@ -1,22 +1,26 @@
 [
   {
-    "projectName": "Balliol Tower_PPM",
-    "scopes": [
-      { "scopeName": "Window Coverings", "estimator": "Merlita" },
-      { "scopeName": "Misc Glazing", "estimator": "Ricky" },
-      { "scopeName": "Carpentry", "estimator": "Ricky" },
-      { "scopeName": "Flooring", "estimator": "Devin" }
-    ]
-  },
-  {
-    "projectName": "Mill Road Tower_PPM",
-    "scopes": [
-      { "scopeName": "Glazing", "estimator": "Gabriela" },
-      { "scopeName": "Caulking", "estimator": "Gabriela" },
-      { "scopeName": "Misc Insulation", "estimator": "Gabriela" },
-      { "scopeName": "Flooring", "estimator": "TBD" },
-      { "scopeName": "Carpentry", "estimator": "TBD" },
-      { "scopeName": "Drywall", "estimator": "Gabriela" }
-    ]
-  }
+            "projectName": "Balliol Tower_PPM",
+            "scopes": [
+              { "scopeName": "Window Coverings", "estimator": "Merlita", "subTrades": [
+                  {"company": "Something Blinds", "subTrade_contact": "Jessica", "contact_phone": "647.225.2175", "contact_email": "whatever@whatevez.com"}
+              ]
+    },
+              { "scopeName": "Misc Glazing", "estimator": "Ricky", "subTrades": [] },
+              { "scopeName": "Carpentry", "estimator": "Ricky", "subTrades": [] },
+              { "scopeName": "Flooring", "estimator": "Devin", "subTrades": [] }
+            ]
+          },
+          {
+            "projectName": "Mill Road Tower_PPM",
+            "scopes": [
+              { "scopeName": "Glazing", "estimator": "Gabriela", "subTrades": [] },
+              { "scopeName": "Caulking", "estimator": "Gabriela", "subTrades": [] },
+              { "scopeName": "Misc Insulation", "estimator": "Gabriela", "subTrades": []
+    },
+              { "scopeName": "Flooring", "estimator": "TBD", "subTrades": [] },
+              { "scopeName": "Carpentry", "estimator": "TBD", "subTrades": [] },
+              { "scopeName": "Drywall", "estimator": "Gabriela", "subTrades": [] }
+            ]
+          }
 ]
