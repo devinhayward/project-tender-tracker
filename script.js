@@ -9,7 +9,21 @@ fetch('data/projects.json')
         <h2>${project.projectName}</h2>
         <ul>
           ${project.scopes.map(scope => `
-            <li class="scope"><strong>${scope.scopeName}</strong> — Estimator: ${scope.estimator}</li>
+            <li class="scope">
+              <strong>${scope.scopeName}</strong> — Estimator: ${scope.estimator}
+              ${scope.subTrades && scope.subTrades.length > 0 ? `
+                <div class="subtrades-section">
+                  <strong>SubTrades:</strong>
+                  <ul class="subtrades">
+                    ${scope.subTrades.map(subTrade => `
+                      <li class="subtrade">
+                        ${subTrade.company} (${subTrade.subTrade_contact}, ${subTrade.contact_phone}, ${subTrade.contact_email})
+                      </li>
+                    `).join('')}
+                  </ul>
+                </div>
+              ` : ''}
+            </li>
           `).join('')}
         </ul>
       `;
