@@ -17,6 +17,12 @@
             "subTrade_contact": "Chad Olcetin",
             "contact_phone": "",
             "contact_email": "cagdas.olcetin@ceotex.ca"
+          },
+          {
+            "company": "Elite Pro Shading Systems",
+            "subTrade_contact": "Aaron Zimner",
+            "contact_phone": "905.660.0049",
+            "contact_email": "aaron@eliteproshading.com"
           }
         ]
       },
@@ -81,7 +87,7 @@
           {
             "company": "Exquisite Painting",
             "subTrade_contact": "Smith Soni",
-            "contact_phone": "",
+            "contact_phone": "647.289.4930",
             "contact_email": "ssoni@exquisitepainting.com"
           },
           {
@@ -93,13 +99,13 @@
           {
             "company": "CPE Painting",
             "subTrade_contact": "Pamir Naeem",
-            "contact_phone": "",
+            "contact_phone": "647.885.9911",
             "contact_email": "pamir@cpepainting.com"
           },
           {
             "company": "Maple Leaf Painting",
             "subTrade_contact": "Donny Amaral",
-            "contact_phone": "",
+            "contact_phone": "905.897.9252",
             "contact_email": "dony@mapleleafpainting.com"
           }
         ]
@@ -119,6 +125,18 @@
             "subTrade_contact": "Kevin Song",
             "contact_phone": "416.888.1851",
             "contact_email": "KSong@lenworth.ca"
+          },
+          {
+            "company": "Atlas Overhead Doors",
+            "subTrade_contact": "Michael Ihilchik",
+            "contact_phone": "416.663.1574 x 305",
+            "contact_email": "sales@atlasdoors.ca"
+          },
+          {
+            "company": "Burrell Overhead Doors",
+            "subTrade_contact": "Daryl Duda",
+            "contact_phone": "",
+            "contact_email": "daryl@burrelloverheaddoor.com"
           }
         ]
       },
