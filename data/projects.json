@@ -1,26 +1,184 @@
 [
   {
-            "projectName": "Balliol Tower_PPM",
-            "scopes": [
-              { "scopeName": "Window Coverings", "estimator": "Merlita", "subTrades": [
-                  {"company": "Something Blinds", "subTrade_contact": "Jessica", "contact_phone": "647.225.2175", "contact_email": "whatever@whatevez.com"}
-              ]
-    },
-              { "scopeName": "Misc Glazing", "estimator": "Ricky", "subTrades": [] },
-              { "scopeName": "Carpentry", "estimator": "Ricky", "subTrades": [] },
-              { "scopeName": "Flooring", "estimator": "Devin", "subTrades": [] }
-            ]
+    "projectName": "Balliol Tower_PPM",
+    "scopes": [
+      {
+        "scopeName": "Window Coverings",
+        "estimator": "Merlita",
+        "subTrades": [
+          {
+            "company": "CA Blinds",
+            "subTrade_contact": "Christina",
+            "contact_phone": "519.781.8177",
+            "contact_email": "cablindswholesale@gmail.com"
           },
           {
-            "projectName": "Mill Road Tower_PPM",
-            "scopes": [
-              { "scopeName": "Glazing", "estimator": "Gabriela", "subTrades": [] },
-              { "scopeName": "Caulking", "estimator": "Gabriela", "subTrades": [] },
-              { "scopeName": "Misc Insulation", "estimator": "Gabriela", "subTrades": []
-    },
-              { "scopeName": "Flooring", "estimator": "TBD", "subTrades": [] },
-              { "scopeName": "Carpentry", "estimator": "TBD", "subTrades": [] },
-              { "scopeName": "Drywall", "estimator": "Gabriela", "subTrades": [] }
-            ]
+            "company": "Ceotex",
+            "subTrade_contact": "Chad Olcetin",
+            "contact_phone": "",
+            "contact_email": "cagdas.olcetin@ceotex.ca"
           }
+        ]
+      },
+      {
+        "scopeName": "Misc Glazing",
+        "estimator": "Ricky",
+        "subTrades": [
+          {
+            "company": "Metropolitan",
+            "subTrade_contact": "Ryan Hill",
+            "contact_phone": "416.720.9252",
+            "contact_email": "ryan@mhpgroup.ca"
+          },
+          {
+            "company": "Keystone",
+            "subTrade_contact": "John Templeton",
+            "contact_phone": "647.407.6052",
+            "contact_email": "johnt@keystonehomeproducts.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Carpentry",
+        "estimator": "Ricky",
+        "subTrades": [
+          {
+            "company": "Matera",
+            "subTrade_contact": "Marco Domenichiello",
+            "contact_phone": "416.717.4061",
+            "contact_email": "mdomenichiello@matera.ca"
+          },
+          {
+            "company": "Keystone",
+            "subTrade_contact": "John Templeton",
+            "contact_phone": "647.407.6052",
+            "contact_email": "johnt@keystonehomeproducts.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Flooring",
+        "estimator": "Devin",
+        "subTrades": [
+          {
+            "company": "Classic Tile",
+            "subTrade_contact": "Ehab Shaheen",
+            "contact_phone": "416.805.0677",
+            "contact_email": "eshaheen@classictile1.com"
+          },
+          {
+            "company": "Donysh",
+            "subTrade_contact": "Sam Tafreshi",
+            "contact_phone": "416.880.4565",
+            "contact_email": "samt@donysh.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Painting",
+        "estimator": "Ricky",
+        "subTrades": [
+          {
+            "company": "Exquisite Painting",
+            "subTrade_contact": "Smith Soni",
+            "contact_phone": "",
+            "contact_email": "ssoni@exquisitepainting.com"
+          },
+          {
+            "company": "Snow Painting",
+            "subTrade_contact": "Murat Kar",
+            "contact_phone": "647.225.2175",
+            "contact_email": "info@snowpainting.com"
+          },
+          {
+            "company": "CPE Painting",
+            "subTrade_contact": "Pamir Naeem",
+            "contact_phone": "",
+            "contact_email": "pamir@cpepainting.com"
+          },
+          {
+            "company": "Maple Leaf Painting",
+            "subTrade_contact": "Donny Amaral",
+            "contact_phone": "",
+            "contact_email": "dony@mapleleafpainting.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Overhead Doors / Parking Arms",
+        "estimator": "Ricky / Austin",
+        "subTrades": [
+          {
+            "company": "",
+            "subTrade_contact": "",
+            "contact_phone": "",
+            "contact_email": ""
+          },
+          {
+            "company": "Lenworth",
+            "subTrade_contact": "",
+            "contact_phone": "",
+            "contact_email": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "projectName": "Mill Road Tower_PPM",
+    "scopes": [
+      {
+        "scopeName": "Glazing",
+        "estimator": "Gabriela",
+        "subTrades": []
+      },
+      {
+        "scopeName": "Caulking",
+        "estimator": "Gabriela",
+        "subTrades": []
+      },
+      {
+        "scopeName": "Misc Insulation",
+        "estimator": "Gabriela",
+        "subTrades": []
+      },
+      {
+        "scopeName": "Flooring",
+        "estimator": "TBD",
+        "subTrades": []
+      },
+      {
+        "scopeName": "Carpentry",
+        "estimator": "TBD",
+        "subTrades": []
+      },
+      {
+        "scopeName": "Drywall",
+        "estimator": "Gabriela",
+        "subTrades": []
+      }
+    ]
+  },
+  { 
+    "projectName": "Lolita Gardens_PPM", 
+    "scopes": [
+      {
+        "scopeName": "Glazing",
+        "estimator": "Gabriela",
+        "subTrades": [
+          {
+            "company": "Something Blinds",
+            "subTrade_contact": "Jessica",
+            "contact_phone": "647.225.2175",
+            "contact_email": "whatever@whatevez.com"
+          },
+          {
+            "company": "Something Blinds",
+            "subTrade_contact": "Jessica",
+            "contact_phone": "647.225.2175",
+            "contact_email": "whatever@whatevez.com"
+          }
+        ]
+      },
+    ] }
 ]
