@@ -109,16 +109,40 @@
         "estimator": "Ricky / Austin",
         "subTrades": [
           {
-            "company": "",
-            "subTrade_contact": "",
-            "contact_phone": "",
-            "contact_email": ""
+            "company": "Wilcox Door Service Inc.",
+            "subTrade_contact": "Joe Iannizi",
+            "contact_phone": "416.801.5850",
+            "contact_email": "jiannizi@wilcoxdoor.com"
           },
           {
             "company": "Lenworth",
-            "subTrade_contact": "",
-            "contact_phone": "",
-            "contact_email": ""
+            "subTrade_contact": "Kevin Song",
+            "contact_phone": "416.888.1851",
+            "contact_email": "KSong@lenworth.ca"
+          }
+        ]
+      },
+      {
+        "scopeName": "Landscaping",
+        "estimator": "Ricky",
+        "subTrades": [
+          {
+            "company": "UCC Group Inc.",
+            "subTrade_contact": "Pedro Santos",
+            "contact_phone": "416.791.1077",
+            "contact_email": "psantos@uccgroup.com"
+          },
+          {
+            "company": "CRCE Construction",
+            "subTrade_contact": "David Boczkowski",
+            "contact_phone": "416.909.1361",
+            "contact_email": "david@crceconstruction.com"
+          },
+          {
+            "company": "Orin Landscaping",
+            "subTrade_contact": "Siva Chava",
+            "contact_phone": "647.354.5569",
+            "contact_email": "SChava@orin.ca"
           }
         ]
       }
@@ -159,8 +183,8 @@
       }
     ]
   },
-  { 
-    "projectName": "Lolita Gardens_PPM", 
+  {
+    "projectName": "Lolita Gardens_PPM",
     "scopes": [
       {
         "scopeName": "Glazing",
@@ -179,6 +203,7 @@
             "contact_email": "whatever@whatevez.com"
           }
         ]
-      },
-    ] }
+      }
+    ]
+  }
 ]
