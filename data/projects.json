@@ -28,7 +28,7 @@
       },
       {
         "scopeName": "Misc Glazing",
-        "estimator": "Ricky",
+        "estimator": "Ricky / Austin",
         "subTrades": [
           {
             "company": "Metropolitan",
@@ -55,10 +55,16 @@
             "contact_email": "mdomenichiello@matera.ca"
           },
           {
-            "company": "Keystone",
-            "subTrade_contact": "John Templeton",
-            "contact_phone": "647.407.6052",
-            "contact_email": "johnt@keystonehomeproducts.com"
+            "company": "Professional Carpentry",
+            "subTrade_contact": "Paul DiCecca", 
+            "contact_phone": "905.670.1736",            
+            "contact_email": "pdicecca@procarpentry.ca"
+          },
+          {
+            "company": "Cancian Brothers",
+            "subTrade_contact": "Fabio Cancian",
+            "contact_phone": "647.290.3222",
+            "contact_email": "fabio@cancianbros.com" 
           }
         ]
       },
@@ -172,15 +178,87 @@
       {
         "scopeName": "Glazing",
         "estimator": "Gabriela",
-        "subTrades": []
+        "subTrades": [
+          {
+            "company": "Sky Windows",
+            "subTrade_contact": "Peter Galanis",
+            "contact_phone": "416.633.1881 x202",
+            "contact_email": "peter@skywindowtech.com"
+          },
+          {
+            "company": "BV Glazing Systems",
+            "subTrade_contact": "Maria Catalanotto",
+            "contact_phone": "905.738.8600 x145",
+            "contact_email": "maria.catalanotto@bvglazing.com"
+          },
+          {
+            "company": "Toro Aluminum",
+            "subTrade_contact": "Mike Frantellizzi",
+            "contact_phone": "905.738.5220 x",
+            "contact_email": "michaelf@toroaluminum.com"
+          },
+          {
+            "company": "State Windows",
+            "subTrade_contact": "Brian Cohen",
+            "contact_phone": "416.646.1421",
+            "contact_email": "bcohen@statecorp.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Aluminum Railings", 
+        "estimator": "Gabriela",
+        "subTrades": [
+          {
+            "company": "Alugard Railings",
+            "subTrade_contact": "Pellumb Ruci",
+            "contact_phone": "647.395.5275",
+            "contact_email": "pellumb@alugard.ca"
+          },
+          {
+            "company": "Greco Railings",
+            "subTrade_contact": "Jim Small",
+            "contact_phone": "519.966.1478",
+            "contact_email": "jim.small@grecorailings.com"
+          },
+          {
+            "company": "Toro Glass Railing",
+            "subTrade_contact": "Hilton Sit",
+            "contact_phone": "437.770.6105",
+            "contact_email": "Hilton.Sit@toroaluminumrailings.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Light Fixtures",
+        "estimator": "Gabriela",
+        "subTrades": [
+          {
+            "company": "ONeil Electric",
+            "subTrade_contact": "Cathy Hemmati",
+            "contact_phone": "416.891.9725",
+            "contact_email": "cathyhemmati@oneilelectric.com"
+          },
+          {
+            "company": "Litemode",
+            "subTrade_contact": "Alfie Selvaggi",
+            "contact_phone": "647.505.2514",
+            "contact_email": "alfie@litemode.ca"
+          }
+        ]
       },
       {
         "scopeName": "Caulking",
-        "estimator": "Gabriela",
+        "estimator": "Merlita",
         "subTrades": []
       },
       {
         "scopeName": "Misc Insulation",
+        "estimator": "Merlita",
+        "subTrades": []
+      },
+      {
+        "scopeName": "Roof Anchors",
         "estimator": "Gabriela",
         "subTrades": []
       },
@@ -197,7 +275,38 @@
       {
         "scopeName": "Drywall",
         "estimator": "Gabriela",
-        "subTrades": []
+        "subTrades": [
+          {
+            "company": "Marel Drywall",
+            "subTrade_contact": "Michael Santini",
+            "contact_phone": "905.326.4000",
+            "contact_email": "MSantini@marelcontractors.com"
+          },
+          {
+            "company": "Torino Drywall",
+            "subTrade_contact": "Rick Munce",
+            "contact_phone": "416.805.0677",
+            "contact_email": "rick@torinodrywall.ca"
+          },
+          {
+            "company": "Cobell Interiors Ltd.",
+            "subTrade_contact": "Edward",
+            "contact_phone": "905.264.2722",
+            "contact_email": "cobell@bellnet.ca"
+          },
+          {
+            "company": "Paragon Drywall",
+            "subTrade_contact": "Aldo Salerno",
+            "contact_phone": "416.720.1954",
+            "contact_email": "asalerno@paragon-drywall.com"
+          },
+          {
+            "company": "Maxum Drywall",
+            "subTrade_contact": "Gani Babatunde",
+            "contact_phone": "905.856.4108",
+            "contact_email": "Ganiyu@maxumdrywall.com"
+          }
+        ]
       }
     ]
   },
@@ -209,16 +318,52 @@
         "estimator": "Gabriela",
         "subTrades": [
           {
-            "company": "Something Blinds",
-            "subTrade_contact": "Jessica",
-            "contact_phone": "647.225.2175",
-            "contact_email": "whatever@whatevez.com"
+            "company": "Sky Windows",
+            "subTrade_contact": "Peter Galanis",
+            "contact_phone": "416.633.1881 x202",
+            "contact_email": "peter@skywindowtech.com"
           },
           {
-            "company": "Something Blinds",
-            "subTrade_contact": "Jessica",
-            "contact_phone": "647.225.2175",
-            "contact_email": "whatever@whatevez.com"
+            "company": "BV Glazing Systems",
+            "subTrade_contact": "Maria Catalanotto",
+            "contact_phone": "905.738.8600 x145",
+            "contact_email": "maria.catalanotto@bvglazing.com"
+          },
+          {
+            "company": "Toro Aluminum",
+            "subTrade_contact": "Mike Frantellizzi",
+            "contact_phone": "905.738.5220 x",
+            "contact_email": "michaelf@toroaluminum.com"
+          },
+          {
+            "company": "State Windows",
+            "subTrade_contact": "Brian Cohen",
+            "contact_phone": "416.646.1421",
+            "contact_email": "bcohen@statecorp.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Aluminum Railings",
+        "estimator": "Gabriela",
+        "subTrades": [
+          {
+            "company": "Toro Glass Railing",
+            "subTrade_contact": "Hilton Sit",
+            "contact_phone": "437.770.6105",
+            "contact_email": "Hilton.Sit@toroaluminumrailings.com"
+          },
+          {
+            "company": "Alugard Railings",
+            "subTrade_contact": "Pellumb Ruci",
+            "contact_phone": "647.395.5275",
+            "contact_email": "pellumb@alugard.ca"
+          },
+          {
+            "company": "Greco Railings",
+            "subTrade_contact": "Jim Small",
+            "contact_phone": "519.966.1478",
+            "contact_email": "jim.small@grecorailings.com"
           }
         ]
       }
