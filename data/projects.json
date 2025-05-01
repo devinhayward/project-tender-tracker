@@ -176,6 +176,24 @@
     "projectName": "Mill Road Tower_PPM",
     "scopes": [
       {
+        "scopeName": "Landscaping",
+        "estimator": "Ricky",
+        "subTrades": [
+          {
+            "company": "CRCE Construction",
+            "subTrade_contact": "David Boczkowski",
+            "contact_phone": "416.909.1361",
+            "contact_email": "david@crceconstruction.com"
+          },
+          {
+            "company": "Orin Landscaping",
+            "subTrade_contact": "Siva Chava",
+            "contact_phone": "647.354.5569",
+            "contact_email": "SChava@orin.ca"
+          }
+        ]
+      },
+      {
         "scopeName": "Glazing",
         "estimator": "Gabriela",
         "subTrades": [
@@ -248,19 +266,93 @@
         ]
       },
       {
+        "scopeName": "Hardware",
+        "estimator": "Gabriela",
+        "subTrades": [
+          {
+            "company": "Citywide Door Hardware",
+            "subTrade_contact": "Dominic Greco",
+            "contact_phone": "416.574.7141",
+            "contact_email": "dgreco@thecitywidegroup.com"
+          },
+          {
+            "company": "American Hardware Building Supply Co Ltd.",
+            "subTrade_contact": "Jennifer Minka",
+            "contact_phone": "647.409.2920",
+            "contact_email": "jminka@americanhardware.ca"
+          }
+        ]
+      },
+      {
         "scopeName": "Caulking",
-        "estimator": "Merlita",
-        "subTrades": []
+        "estimator": "Merlita - Not Started",
+        "subTrades": [
+          {
+            "company": "Basic Caulking",
+            "subTrade_contact": "Neno",
+            "contact_phone": "416.876.3995",
+            "contact_email": "bcaulking@gmail.com>"
+          },
+          {
+            "company": "LPK Construction Ltd.",
+            "subTrade_contact": "Alex",
+            "contact_phone": "647.818.3697",
+            "contact_email": "info@lpkconstruction.ca"
+          },
+          {
+            "company": "Bayview Caulking Inc.",
+            "subTrade_contact": "Andrew Doubelt",
+            "contact_phone": "416.878.8888",
+            "contact_email": "bayviewcaulking@gmail.com"
+          },
+          {
+            "company": "Northern Caulking",
+            "subTrade_contact": "Telma Karnieg",
+            "contact_phone": "416.985.7325",
+            "contact_email": "telma@northerncaulking.com"
+          }
+        ]
       },
       {
         "scopeName": "Misc Insulation",
-        "estimator": "Merlita",
+        "estimator": "Merlita - Not Started",
         "subTrades": []
       },
       {
         "scopeName": "Roof Anchors",
         "estimator": "Gabriela",
-        "subTrades": []
+        "subTrades": [
+          {
+            "company": "UCEL Access",
+            "subTrade_contact": "Lyne Hoben",
+            "contact_phone": "416.888.3824",
+            "contact_email": "lhoben@ucelinc.com"
+          },
+          {
+            "company": "Suspended Stages",
+            "subTrade_contact": "Keith Yorke",
+            "contact_phone": "416.243.7179",
+            "contact_email": "keithyorke@suspendedstages.com"
+          },
+          {
+            "company": "Ankor Engineering",
+            "subTrade_contact": "Irina Voznyuk",
+            "contact_phone": "416.740.5671",
+            "contact_email": "estimating@ankoreng.com"
+          },
+          {
+            "company": "PRO-BEL Group Limited",
+            "subTrade_contact": "Jordan Lebel",
+            "contact_phone": "905.424.2454",
+            "contact_email": "jordanl@pro-bel.com"
+          },
+          {
+            "company": "W.L. Beatty",
+            "subTrade_contact": "Warren Beatty",
+            "contact_phone": "416.984.9587",
+            "contact_email": "warren_bt@yahoo.ca"
+          }
+        ]
       },
       {
         "scopeName": "Flooring",
