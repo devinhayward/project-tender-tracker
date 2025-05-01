@@ -285,7 +285,7 @@
       },
       {
         "scopeName": "Caulking",
-        "estimator": "Merlita - Not Started",
+        "estimator": "Gabriela",
         "subTrades": [
           {
             "company": "Basic Caulking",
@@ -294,10 +294,10 @@
             "contact_email": "bcaulking@gmail.com>"
           },
           {
-            "company": "LPK Construction Ltd.",
-            "subTrade_contact": "Alex",
-            "contact_phone": "647.818.3697",
-            "contact_email": "info@lpkconstruction.ca"
+            "company": "Sky Genie Services",
+            "subTrade_contact": "Adam Seibert",
+            "contact_phone": "647.456.6600",
+            "contact_email": "skygenieservices@gmail.com"
           },
           {
             "company": "Bayview Caulking Inc.",
@@ -310,6 +310,12 @@
             "subTrade_contact": "Telma Karnieg",
             "contact_phone": "416.985.7325",
             "contact_email": "telma@northerncaulking.com"
+          },
+          {
+            "company": "Blandford Construction Services Inc.",
+            "subTrade_contact": "Chris Blandford",
+            "contact_phone": "905.276.4999",
+            "contact_email": "info@blandfordconstruction.ca"
           }
         ]
       },
