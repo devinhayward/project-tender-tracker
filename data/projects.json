@@ -41,6 +41,18 @@
             "subTrade_contact": "John Templeton",
             "contact_phone": "647.407.6052",
             "contact_email": "johnt@keystonehomeproducts.com"
+          },
+          {
+            "company": "JJ Home Products",
+            "subTrade_contact": "Diana Casalino",
+            "contact_phone": "416.798.7785 x",
+            "contact_email": "diana.casalino@jj.ca"
+          },
+          {
+            "company": "Arm Glass and Mirror Corp.",
+            "subTrade_contact": "Frida Berdugo",
+            "contact_phone": "905.503.9090",
+            "contact_email": "sales@armglass.ca"
           }
         ]
       },
@@ -146,6 +158,48 @@
           }
         ]
       },
+      {
+        "scopeName": "Signage",
+        "estimator": "Merlita",
+        "subTrades": [
+          {
+            "company": "Astley Gilbert",
+            "subTrade_contact": "Andrew Gerlsbeck",
+            "contact_phone": "416.288.2750",
+            "contact_email": "AndrewG@astleygilbert.com"
+          },
+          {
+            "company": "Sign Network Architectural Products Inc.",
+            "subTrade_contact": "Adam Himes",
+            "contact_phone": "905.764.7323",
+            "contact_email": "adam@signnetworkap.com"
+          },
+          {
+            "company": "Brothers Markle",
+            "subTrade_contact": "Ujas Trivedi",
+            "contact_phone": "416.495.9888",
+            "contact_email": "ujas@brothersmarkle.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Appliances",
+        "estimator": "Jackie - Completed",
+        "subTrades": [
+          {
+            "company": "Appliance Canada",
+            "subTrade_contact": "Clarissa Leal",
+            "contact_phone": "905.660.2424 x2234",
+            "contact_email": "cleal@appliancecanada.com"
+          },
+          {
+            "company": "Coast Appliances",
+            "subTrade_contact": "Hala Jabr",
+            "contact_phone": "905.224.0664",
+            "contact_email": "hjabr@coastappliances.com"
+          }
+        ]
+      }
       {
         "scopeName": "Landscaping",
         "estimator": "Ricky",
@@ -456,6 +510,24 @@
             "contact_email": "Ganiyu@maxumdrywall.com"
           }
         ]
+      },
+      {
+        "scopeName": "Appliances",
+        "estimator": "Jackie",
+        "subTrades": [
+          {
+            "company": "Appliance Canada",
+            "subTrade_contact": "Clarissa Leal",
+            "contact_phone": "905.660.2424 x2234",
+            "contact_email": "cleal@appliancecanada.com"
+          },
+          {
+            "company": "Coast Appliances",
+            "subTrade_contact": "Hala Jabr",
+            "contact_phone": "905.224.0664",
+            "contact_email": "hjabr@coastappliances.com"
+          }
+        ]
       }
     ]
   },
@@ -517,6 +589,126 @@
         ]
       },
       {
+        "scopeName": "Masonry",
+        "estimator": "Merlita",
+        "subTrades": [
+          {
+            "company": "Limen Masonry",
+            "subTrade_contact": "Robert Molyneaux",
+            "contact_phone": "416.638.8880 x224",
+            "contact_email": "RMolyneaux@limengroup.com"
+          },
+          {
+            "company": "Medi Group Inc.",
+            "subTrade_contact": "Mark Rotstein",
+            "contact_phone": "416.741.2737",
+            "contact_email": "markr@medigroup.net"
+          },
+          {
+            "company": "Highrise Masonry",
+            "subTrade_contact": "T.J. Kemp",
+            "contact_phone": "647.993.2218",
+            "contact_email": "tkemp@highrisemasonry.com"
+          },
+          {
+            "company": "Trican Masonry",
+            "subTrade_contact": "Craig Tardiff",
+            "contact_phone": "905.278.7800",
+            "contact_email": "craigt@tricanmasonry.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Misc Insulation",
+        "estimator": "Merlita - Not Started",
+        "subTrades": [
+          {
+            "company": "RJB Insulation Inc.",
+            "subTrade_contact": "Robert Balagovic",
+            "contact_phone": "647.229.8389",
+            "contact_email": "robert@rjbinsulation.com"
+          },
+          {
+            "company": "Northern Caulking",
+            "subTrade_contact": "Telma Karnieg",
+            "contact_phone": "416.985.7325",
+            "contact_email": "telma@northerncaulking.com"
+          },
+          {
+            "company": "OSTIM Construction LTD.",
+            "subTrade_contact": "Ronak Sadeghian",
+            "contact_phone": "416.550.2053",
+            "contact_email": "ronak@ostim.ca"
+          }
+        ]
+      },
+      {
+        "scopeName": "Caulking",
+        "estimator": "Merlita",
+        "subTrades": [
+          {
+            "company": "Northern Caulking",
+            "subTrade_contact": "Telma Karnieg",
+            "contact_phone": "416.985.7325",
+            "contact_email": "telma@northerncaulking.com"
+          },
+          {
+            "company": "Basic Caulking",
+            "subTrade_contact": "Neno",
+            "contact_phone": "416.876.3995",
+            "contact_email": "bcaulking@gmail.com"
+          },
+          {
+            "company": "Bayview Caulking Inc.",
+            "subTrade_contact": "Andrew Doubelt",
+            "contact_phone": "416.878.8888",
+            "contact_email": "bayviewcaulking@gmail.com"
+          },
+          {
+            "company": "LPK Construction Ltd.",
+            "subTrade_contact": "Alex Koja",
+            "contact_phone": "647.224.9067",
+            "contact_email": "info@lpkconstruction.ca"
+          }
+        ]
+      },
+      {
+        "scopeName": "Drywall",
+        "estimator": "Devin / Merlita",
+        "subTrades": [
+          {
+            "company": "Marel Drywall",
+            "subTrade_contact": "Michael Santini",
+            "contact_phone": "905.326.4000",
+            "contact_email": "MSantini@marelcontractors.com"
+          },
+          {
+            "company": "Torino Drywall",
+            "subTrade_contact": "Rick Munce",
+            "contact_phone": "416.805.0677",
+            "contact_email": "rick@torinodrywall.ca"
+          },
+          {
+            "company": "Cobell Interiors Ltd.",
+            "subTrade_contact": "Edward",
+            "contact_phone": "905.264.2722",
+            "contact_email": "cobell@bellnet.ca"
+          },
+          {
+            "company": "Paragon Drywall",
+            "subTrade_contact": "Aldo Salerno",
+            "contact_phone": "416.720.1954",
+            "contact_email": "asalerno@paragon-drywall.com"
+          },
+          {
+            "company": "Maxum Drywall",
+            "subTrade_contact": "Gani Babatunde",
+            "contact_phone": "905.856.4108",
+            "contact_email": "Ganiyu@maxumdrywall.com"
+          }
+        ]
+      },
+      {
         "scopeName": "Flooring",
         "estimator": "Merlita - Not Started",
         "subTrades": [
@@ -531,6 +723,24 @@
             "subTrade_contact": "Sam Tafreshi",
             "contact_phone": "416.880.4565",
             "contact_email": "samt@donysh.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Appliances",
+        "estimator": "Jackie - Completed",
+        "subTrades": [
+          {
+            "company": "Appliance Canada",
+            "subTrade_contact": "Clarissa Leal",
+            "contact_phone": "905.660.2424 x2234",
+            "contact_email": "cleal@appliancecanada.com"
+          },
+          {
+            "company": "Coast Appliances",
+            "subTrade_contact": "Hala Jabr",
+            "contact_phone": "905.224.0664",
+            "contact_email": "hjabr@coastappliances.com"
           }
         ]
       }
@@ -563,6 +773,24 @@
           }
         ]
       },
+      {
+        "scopeName": "Hardware",
+        "estimator": "Devin",
+        "subTrades": [
+          {
+            "company": "Citywide Door Hardware",
+            "subTrade_contact": "Dominic Greco",
+            "contact_phone": "416.574.7141",
+            "contact_email": "dgreco@thecitywidegroup.com"
+          },
+          {
+            "company": "American Hardware Building Supply Co Ltd.",
+            "subTrade_contact": "Jennifer Minka",
+            "contact_phone": "647.409.2920",
+            "contact_email": "jminka@americanhardware.ca"
+          }
+        ]
+      }
       {
         "scopeName": "Misc Glazing",
         "estimator": "Ricky / Austin",
@@ -640,6 +868,90 @@
             "contact_email": "atome@bondsecur.com"
           }
         ]
+      },
+      {
+        "scopeName": "Overhead Doors / Fire Doors",
+        "estimator": "Ricky / Austin",
+        "subTrades": [
+          {
+            "company": "Wilcox Door Service Inc.",
+            "subTrade_contact": "Joe Iannizi",
+            "contact_phone": "416.801.5850",
+            "contact_email": "jiannizi@wilcoxdoor.com"
+          },
+          {
+            "company": "Lenworth",
+            "subTrade_contact": "Kevin Song",
+            "contact_phone": "416.888.1851",
+            "contact_email": "KSong@lenworth.ca"
+          },
+          {
+            "company": "Atlas Overhead Doors",
+            "subTrade_contact": "Michael Ihilchik",
+            "contact_phone": "416.663.1574 x 305",
+            "contact_email": "sales@atlasdoors.ca"
+          },
+          {
+            "company": "Burrell Overhead Doors",
+            "subTrade_contact": "Daryl Duda",
+            "contact_phone": "",
+            "contact_email": "daryl@burrelloverheaddoor.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Appliances",
+        "estimator": "Jackie - Completed",
+        "subTrades": [
+          {
+            "company": "Appliance Canada",
+            "subTrade_contact": "Clarissa Leal",
+            "contact_phone": "905.660.2424 x2234",
+            "contact_email": "cleal@appliancecanada.com"
+          },
+          {
+            "company": "Coast Appliances",
+            "subTrade_contact": "Hala Jabr",
+            "contact_phone": "905.224.0664",
+            "contact_email": "hjabr@coastappliances.com"
+          },
+          {
+            "company": "Midnorthern Appliance",
+            "subTrade_contact": "Michael Gnat",
+            "contact_phone": "416.635.4835",
+            "contact_email": "mgnat@midnorthern.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Landscaping",
+        "estimator": "Ricky / Merlita - Not Started",
+        "subTrades": [
+          {
+            "company": "UCC Group Inc.",
+            "subTrade_contact": "Pedro Santos",
+            "contact_phone": "416.791.1077",
+            "contact_email": "psantos@uccgroup.com"
+          },
+          {
+            "company": "CRCE Construction",
+            "subTrade_contact": "David Boczkowski",
+            "contact_phone": "416.909.1361",
+            "contact_email": "david@crceconstruction.com"
+          },
+          {
+            "company": "Orin Landscaping",
+            "subTrade_contact": "Siva Chava",
+            "contact_phone": "647.354.5569",
+            "contact_email": "SChava@orin.ca"
+          },
+          {
+            "company": "Aeon Landscaping",
+            "subTrade_contact": "Henry Vu",
+            "contact_phone": "647.372.2336",
+            "contact_email": "tenders@axo1corp.com"
+          }
+        ]      
       }
     ]
   }
