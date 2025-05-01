@@ -316,7 +316,26 @@
       {
         "scopeName": "Misc Insulation",
         "estimator": "Merlita - Not Started",
-        "subTrades": []
+        "subTrades": [
+          {
+            "company": "RJB Insulation Inc.",
+            "subTrade_contact": "Robert Balagovic",
+            "contact_phone": "647.229.8389",
+            "contact_email": "robert@rjbinsulation.com>"
+          },
+          {
+            "company": "Northern Caulking",
+            "subTrade_contact": "Telma Karnieg",
+            "contact_phone": "416.985.7325",
+            "contact_email": "telma@northerncaulking.com"
+          },
+          {
+            "company": "OSTIM Construction LTD.",
+            "subTrade_contact": "Ronak Sadeghian",
+            "contact_phone": "416.550.2053",
+            "contact_email": "ronak@ostim.ca"
+          }      
+        ]
       },
       {
         "scopeName": "Roof Anchors",
@@ -357,12 +376,44 @@
       {
         "scopeName": "Flooring",
         "estimator": "TBD",
-        "subTrades": []
+        "subTrades": [
+          {
+            "company": "Classic Tile",
+            "subTrade_contact": "Ehab Shaheen",
+            "contact_phone": "416.805.0677",
+            "contact_email": "eshaheen@classictile1.com"
+          },
+          {
+            "company": "Donysh",
+            "subTrade_contact": "Sam Tafreshi",
+            "contact_phone": "416.880.4565",
+            "contact_email": "samt@donysh.com"
+          }
+        ]
       },
       {
         "scopeName": "Carpentry",
         "estimator": "TBD",
-        "subTrades": []
+        "subTrades": [
+          {
+            "company": "Matera",
+            "subTrade_contact": "Marco Domenichiello",
+            "contact_phone": "416.717.4061",
+            "contact_email": "mdomenichiello@matera.ca"
+          },
+          {
+            "company": "Professional Carpentry",
+            "subTrade_contact": "Paul DiCecca", 
+            "contact_phone": "905.670.1736",            
+            "contact_email": "pdicecca@procarpentry.ca"
+          },
+          {
+            "company": "Cancian Brothers",
+            "subTrade_contact": "Fabio Cancian",
+            "contact_phone": "647.290.3222",
+            "contact_email": "fabio@cancianbros.com" 
+          }
+        ]
       },
       {
         "scopeName": "Drywall",
@@ -456,6 +507,24 @@
             "subTrade_contact": "Jim Small",
             "contact_phone": "519.966.1478",
             "contact_email": "jim.small@grecorailings.com"
+          }
+        ]
+      }
+      {
+        "scopeName": "Flooring",
+        "estimator": "Merlita - Not Started",
+        "subTrades": [
+          {
+            "company": "Classic Tile",
+            "subTrade_contact": "Ehab Shaheen",
+            "contact_phone": "416.805.0677",
+            "contact_email": "eshaheen@classictile1.com"
+          },
+          {
+            "company": "Donysh",
+            "subTrade_contact": "Sam Tafreshi",
+            "contact_phone": "416.880.4565",
+            "contact_email": "samt@donysh.com"
           }
         ]
       }
