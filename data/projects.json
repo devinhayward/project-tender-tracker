@@ -535,5 +535,112 @@
         ]
       }
     ]
+  },
+  {
+    "projectName": "26 Gilder Tower_Rose Corp",
+    "scopes": [
+      {
+        "scopeName": "Carpentry",
+        "estimator": "Gabriela",
+        "subTrades": [
+          {
+            "company": "Matera",
+            "subTrade_contact": "Marco Domenichiello",
+            "contact_phone": "416.717.4061",
+            "contact_email": "mdomenichiello@matera.ca"
+          },
+          {
+            "company": "Professional Carpentry",
+            "subTrade_contact": "Paul DiCecca", 
+            "contact_phone": "905.670.1736",            
+            "contact_email": "pdicecca@procarpentry.ca"
+          },
+          {
+            "company": "Cancian Brothers",
+            "subTrade_contact": "Fabio Cancian",
+            "contact_phone": "647.290.3222",
+            "contact_email": "fabio@cancianbros.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Misc Glazing",
+        "estimator": "Ricky / Austin",
+        "subTrades": [
+          {
+            "company": "Metropolitan",
+            "subTrade_contact": "Ryan Hill",
+            "contact_phone": "416.720.9252",
+            "contact_email": "ryan@mhpgroup.ca"
+          },
+          {
+            "company": "Keystone",
+            "subTrade_contact": "John Templeton",
+            "contact_phone": "647.407.6052",
+            "contact_email": "johnt@keystonehomeproducts.com"
+          },
+          {
+            "company": "JJ Home Products",
+            "subTrade_contact": "Diana Casalino",
+            "contact_phone": "416.798.7785 x",
+            "contact_email": "diana.casalino@jj.ca"
+          },
+          {
+            "company": "Arm Glass and Mirror Corp.",
+            "subTrade_contact": "Frida Berdugo",
+            "contact_phone": "905.503.9090",
+            "contact_email": "sales@armglass.ca"
+          }
+        ]
+      },
+      {
+        "scopeName": "Signage",
+        "estimator": "Merlita",
+        "subTrades": [
+          {
+            "company": "Astley Gilbert",
+            "subTrade_contact": "Andrew Gerlsbeck",
+            "contact_phone": "416.288.2750",
+            "contact_email": "AndrewG@astleygilbert.com"
+          },
+          {
+            "company": "Sign Network Architectural Products Inc.",
+            "subTrade_contact": "Adam Himes",
+            "contact_phone": "905.764.7323",
+            "contact_email": "adam@signnetworkap.com"
+          },
+          {
+            "company": "Brothers Markle",
+            "subTrade_contact": "Ujas Trivedi",
+            "contact_phone": "416.495.9888",
+            "contact_email": "ujas@brothersmarkle.com"
+          }
+        ]
+      }
+      {
+       "scopeName": "Security",
+        "estimator": "Ricky",
+        "subTrades": [
+          {
+            "company": "Gteck Security",
+            "subTrade_contact": "Mehedi Mashud",
+            "contact_phone": "416.524.6714",
+            "contact_email": "m.mashud@gtecktechnology.com"
+          },
+          {
+            "company": "Completely Wired Security Corp.",
+            "subTrade_contact": "Joe Berlingiere",
+            "contact_phone": "905.663.3000",
+            "contact_email": "jberlingiere@completelywired.com"
+          },
+          {
+            "company": "Bond Securcom Inc.",
+            "subTrade_contact": "Amr Tome",
+            "contact_phone": "437.448.6533",
+            "contact_email": "atome@bondsecur.com"
+          }
+        ]
+      }
+    ]
   }
 ]
