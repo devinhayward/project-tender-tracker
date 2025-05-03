@@ -5,6 +5,7 @@
       {
         "scopeName": "Window Coverings",
         "estimator": "Merlita",
+        "division": 12000,
         "subTrades": [
           {
             "company": "CA Blinds",
@@ -29,6 +30,7 @@
       {
         "scopeName": "Misc Glazing",
         "estimator": "Ricky / Austin",
+        "division": 10000,
         "subTrades": [
           {
             "company": "Metropolitan",
@@ -59,6 +61,7 @@
       {
         "scopeName": "Carpentry",
         "estimator": "Ricky",
+        "division": 6000,
         "subTrades": [
           {
             "company": "Matera",
@@ -83,6 +86,7 @@
       {
         "scopeName": "Flooring",
         "estimator": "Devin",
+        "division": 9000,
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -101,6 +105,7 @@
       {
         "scopeName": "Painting",
         "estimator": "Ricky",
+        "division": 9000,
         "subTrades": [
           {
             "company": "Exquisite Painting",
@@ -131,6 +136,7 @@
       {
         "scopeName": "Overhead Doors / Parking Arms",
         "estimator": "Ricky / Austin",
+        "division": 10000,
         "subTrades": [
           {
             "company": "Wilcox Door Service Inc.",
@@ -161,6 +167,7 @@
       {
         "scopeName": "Signage",
         "estimator": "Merlita",
+        "division": 10000,
         "subTrades": [
           {
             "company": "Astley Gilbert",
@@ -185,6 +192,7 @@
       {
         "scopeName": "Appliances",
         "estimator": "Jackie - Completed",
+        "division": 12000,
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -203,6 +211,7 @@
       {
         "scopeName": "Landscaping",
         "estimator": "Ricky",
+        "division": 2000,
         "subTrades": [
           {
             "company": "UCC Group Inc.",
@@ -231,6 +240,7 @@
     "scopes": [
       {
         "scopeName": "Landscaping",
+        "division": 2000,
         "estimator": "Ricky",
         "subTrades": [
           {
@@ -249,6 +259,7 @@
       },
       {
         "scopeName": "Glazing",
+        "division": 8000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -279,6 +290,7 @@
       },
       {
         "scopeName": "Aluminum Railings", 
+        "division": 8000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -303,6 +315,7 @@
       },
       {
         "scopeName": "Light Fixtures",
+        "division": 16000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -321,6 +334,7 @@
       },
       {
         "scopeName": "Hardware",
+        "division": 8000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -339,6 +353,7 @@
       },
       {
         "scopeName": "Caulking",
+        "division": 7000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -375,6 +390,7 @@
       },
       {
         "scopeName": "Misc Insulation",
+        "division": 7000,
         "estimator": "Merlita - Not Started",
         "subTrades": [
           {
@@ -399,6 +415,7 @@
       },
       {
         "scopeName": "Roof Anchors",
+        "division": 12000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -435,6 +452,7 @@
       },
       {
         "scopeName": "Flooring",
+        "division": 9000,
         "estimator": "TBD",
         "subTrades": [
           {
@@ -453,6 +471,7 @@
       },
       {
         "scopeName": "Carpentry",
+        "division": 6000,
         "estimator": "TBD",
         "subTrades": [
           {
@@ -477,6 +496,7 @@
       },
       {
         "scopeName": "Drywall",
+        "division": 9000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -513,6 +533,7 @@
       },
       {
         "scopeName": "Appliances",
+        "division": 12000,
         "estimator": "Jackie",
         "subTrades": [
           {
@@ -536,6 +557,7 @@
     "scopes": [
       {
         "scopeName": "Glazing",
+        "division": 8000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -566,6 +588,7 @@
       },
       {
         "scopeName": "Aluminum Railings",
+        "division": 8000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -590,6 +613,7 @@
       },
       {
         "scopeName": "Masonry",
+        "division": 4000,
         "estimator": "Merlita",
         "subTrades": [
           {
@@ -620,6 +644,7 @@
       },
       {
         "scopeName": "Misc Insulation",
+        "division": 7000,
         "estimator": "Merlita - Not Started",
         "subTrades": [
           {
@@ -644,6 +669,7 @@
       },
       {
         "scopeName": "Caulking",
+        "division": 7000,
         "estimator": "Merlita",
         "subTrades": [
           {
@@ -674,6 +700,7 @@
       },
       {
         "scopeName": "Drywall",
+        "division": 9000,
         "estimator": "Devin / Merlita",
         "subTrades": [
           {
@@ -710,6 +737,7 @@
       },
       {
         "scopeName": "Flooring",
+        "division": 9000,
         "estimator": "Merlita - Not Started",
         "subTrades": [
           {
@@ -728,6 +756,7 @@
       },
       {
         "scopeName": "Appliances",
+        "division": 12000,
         "estimator": "Jackie - Completed",
         "subTrades": [
           {
@@ -751,6 +780,7 @@
     "scopes": [
       {
         "scopeName": "Carpentry",
+        "division": 6000,
         "estimator": "Gabriela",
         "subTrades": [
           {
@@ -775,6 +805,7 @@
       },
       {
         "scopeName": "Hardware",
+        "division": 8000,
         "estimator": "Devin",
         "subTrades": [
           {
@@ -793,6 +824,7 @@
       },
       {
         "scopeName": "Misc Glazing",
+        "division": 10000,
         "estimator": "Ricky / Austin",
         "subTrades": [
           {
@@ -823,6 +855,7 @@
       },
       {
         "scopeName": "Signage",
+        "division": 10000,
         "estimator": "Merlita",
         "subTrades": [
           {
@@ -847,6 +880,7 @@
       },
       {
        "scopeName": "Security",
+        "division": 16000,
         "estimator": "Ricky",
         "subTrades": [
           {
@@ -871,6 +905,7 @@
       },
       {
         "scopeName": "Overhead Doors / Fire Doors",
+        "division": 8000,
         "estimator": "Ricky / Austin",
         "subTrades": [
           {
@@ -901,6 +936,7 @@
       },
       {
         "scopeName": "Appliances",
+        "division": 12000,
         "estimator": "Jackie - Completed",
         "subTrades": [
           {
@@ -925,6 +961,7 @@
       },
       {
         "scopeName": "Landscaping",
+        "division": 2000,
         "estimator": "Ricky / Merlita - Not Started",
         "subTrades": [
           {
