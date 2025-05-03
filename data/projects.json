@@ -1,10 +1,12 @@
 [
   {
     "projectName": "Balliol Tower_PPM",
+    "projectOrder": 1,
     "scopes": [
       {
         "scopeName": "Window Coverings",
         "estimator": "Merlita",
+        "state": "Active",
         "division": 12000,
         "subTrades": [
           {
@@ -28,8 +30,35 @@
         ]
       },
       {
+        "scopeName": "Aluminum Railings",
+        "division": 8000,
+        "estimator": "Gabriela",
+        "state": "Awarded",
+        "subTrades": [
+          {
+            "company": "Toro Glass Railing",
+            "subTrade_contact": "Hilton Sit",
+            "contact_phone": "437.770.6105",
+            "contact_email": "Hilton.Sit@toroaluminumrailings.com"
+          },
+          {
+            "company": "Alugard Railings",
+            "subTrade_contact": "Pellumb Ruci",
+            "contact_phone": "647.395.5275",
+            "contact_email": "pellumb@alugard.ca"
+          },
+          {
+            "company": "Greco Railings",
+            "subTrade_contact": "Jim Small",
+            "contact_phone": "519.966.1478",
+            "contact_email": "jim.small@grecorailings.com"
+          }
+        ]
+      },
+      {
         "scopeName": "Misc Glazing",
         "estimator": "Ricky / Austin",
+        "state": "Active",
         "division": 10000,
         "subTrades": [
           {
@@ -61,6 +90,7 @@
       {
         "scopeName": "Carpentry",
         "estimator": "Ricky",
+        "state": "Awarded",
         "division": 6000,
         "subTrades": [
           {
@@ -86,6 +116,7 @@
       {
         "scopeName": "Flooring",
         "estimator": "Devin",
+        "state": "Active",
         "division": 9000,
         "subTrades": [
           {
@@ -105,6 +136,7 @@
       {
         "scopeName": "Painting",
         "estimator": "Ricky",
+        "state": "Active",
         "division": 9000,
         "subTrades": [
           {
@@ -136,6 +168,7 @@
       {
         "scopeName": "Overhead Doors / Parking Arms",
         "estimator": "Ricky / Austin",
+        "state": "Active",
         "division": 10000,
         "subTrades": [
           {
@@ -167,6 +200,7 @@
       {
         "scopeName": "Signage",
         "estimator": "Merlita",
+        "state": "Active",
         "division": 10000,
         "subTrades": [
           {
@@ -192,6 +226,7 @@
       {
         "scopeName": "Appliances",
         "estimator": "Jackie - Completed",
+        "state": "Awarded",
         "division": 12000,
         "subTrades": [
           {
@@ -211,6 +246,7 @@
       {
         "scopeName": "Landscaping",
         "estimator": "Ricky",
+        "state": "Active",
         "division": 2000,
         "subTrades": [
           {
@@ -237,11 +273,13 @@
   },
   {
     "projectName": "Mill Road Tower_PPM",
+    "projectOrder": 2,
     "scopes": [
       {
         "scopeName": "Landscaping",
         "division": 2000,
         "estimator": "Ricky",
+        "state": "Active",
         "subTrades": [
           {
             "company": "CRCE Construction",
@@ -261,6 +299,7 @@
         "scopeName": "Glazing",
         "division": 8000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Sky Windows",
@@ -292,6 +331,7 @@
         "scopeName": "Aluminum Railings", 
         "division": 8000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Alugard Railings",
@@ -317,6 +357,7 @@
         "scopeName": "Light Fixtures",
         "division": 16000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "ONeil Electric",
@@ -336,6 +377,7 @@
         "scopeName": "Hardware",
         "division": 8000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Citywide Door Hardware",
@@ -355,6 +397,7 @@
         "scopeName": "Caulking",
         "division": 7000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Basic Caulking",
@@ -392,6 +435,7 @@
         "scopeName": "Misc Insulation",
         "division": 7000,
         "estimator": "Merlita - Not Started",
+        "state": "Active",
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -417,6 +461,7 @@
         "scopeName": "Roof Anchors",
         "division": 12000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "UCEL Access",
@@ -454,6 +499,7 @@
         "scopeName": "Flooring",
         "division": 9000,
         "estimator": "TBD",
+        "state": "Not Active",
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -473,6 +519,7 @@
         "scopeName": "Carpentry",
         "division": 6000,
         "estimator": "TBD",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Matera",
@@ -498,6 +545,7 @@
         "scopeName": "Drywall",
         "division": 9000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Marel Drywall",
@@ -535,6 +583,7 @@
         "scopeName": "Appliances",
         "division": 12000,
         "estimator": "Jackie",
+        "state": "Awarded",
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -554,11 +603,13 @@
   },
   {
     "projectName": "Lolita Gardens_PPM",
+    "projectOrder": 3,
     "scopes": [
       {
         "scopeName": "Glazing",
         "division": 8000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Sky Windows",
@@ -590,6 +641,7 @@
         "scopeName": "Aluminum Railings",
         "division": 8000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Toro Glass Railing",
@@ -615,6 +667,7 @@
         "scopeName": "Masonry",
         "division": 4000,
         "estimator": "Merlita",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Limen Masonry",
@@ -646,6 +699,7 @@
         "scopeName": "Misc Insulation",
         "division": 7000,
         "estimator": "Merlita - Not Started",
+        "state": "Active",
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -671,6 +725,7 @@
         "scopeName": "Caulking",
         "division": 7000,
         "estimator": "Merlita",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Northern Caulking",
@@ -702,6 +757,7 @@
         "scopeName": "Drywall",
         "division": 9000,
         "estimator": "Devin / Merlita",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Marel Drywall",
@@ -738,7 +794,8 @@
       {
         "scopeName": "Flooring",
         "division": 9000,
-        "estimator": "Merlita - Not Started",
+        "estimator": "Merlita",
+        "state": "Not Active",
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -758,6 +815,7 @@
         "scopeName": "Appliances",
         "division": 12000,
         "estimator": "Jackie - Completed",
+        "state": "Awarded",
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -777,11 +835,13 @@
   },
   {
     "projectName": "26 Gilder Tower_Rose Corp",
+    "projectOrder": 5,
     "scopes": [
       {
         "scopeName": "Carpentry",
         "division": 6000,
         "estimator": "Gabriela",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Matera",
@@ -807,6 +867,7 @@
         "scopeName": "Hardware",
         "division": 8000,
         "estimator": "Devin",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Citywide Door Hardware",
@@ -826,6 +887,7 @@
         "scopeName": "Misc Glazing",
         "division": 10000,
         "estimator": "Ricky / Austin",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Metropolitan",
@@ -857,6 +919,7 @@
         "scopeName": "Signage",
         "division": 10000,
         "estimator": "Merlita",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Astley Gilbert",
@@ -882,6 +945,7 @@
        "scopeName": "Security",
         "division": 16000,
         "estimator": "Ricky",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Gteck Security",
@@ -907,6 +971,7 @@
         "scopeName": "Overhead Doors / Fire Doors",
         "division": 8000,
         "estimator": "Ricky / Austin",
+        "state": "Active",
         "subTrades": [
           {
             "company": "Wilcox Door Service Inc.",
@@ -937,7 +1002,8 @@
       {
         "scopeName": "Appliances",
         "division": 12000,
-        "estimator": "Jackie - Completed",
+        "estimator": "Jackie",
+        "state": "Awarded",
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -962,7 +1028,8 @@
       {
         "scopeName": "Landscaping",
         "division": 2000,
-        "estimator": "Ricky / Merlita - Not Started",
+        "estimator": "Ricky / Merlita",
+        "state": "Not Active",
         "subTrades": [
           {
             "company": "UCC Group Inc.",
