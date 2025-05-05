@@ -550,7 +550,7 @@
       {
         "scopeName": "Carpentry",
         "division": 6000,
-        "estimator": "TBD",
+        "estimator": "Ricky",
         "state": "Not Active",
         "subTrades": [
           {
@@ -854,6 +854,32 @@
             "subTrade_contact": "Sam Tafreshi",
             "contact_phone": "416.880.4565",
             "contact_email": "samt@donysh.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Carpentry",
+        "division": 6000,
+        "estimator": "Ricky",
+        "state": "Not Active",
+        "subTrades": [
+          {
+            "company": "Matera",
+            "subTrade_contact": "Marco Domenichiello",
+            "contact_phone": "416.717.4061",
+            "contact_email": "mdomenichiello@matera.ca"
+          },
+          {
+            "company": "Professional Carpentry",
+            "subTrade_contact": "Paul DiCecca", 
+            "contact_phone": "905.670.1736",            
+            "contact_email": "pdicecca@procarpentry.ca"
+          },
+          {
+            "company": "Cancian Brothers",
+            "subTrade_contact": "Fabio Cancian",
+            "contact_phone": "647.290.3222",
+            "contact_email": "fabio@cancianbros.com" 
           }
         ]
       },
