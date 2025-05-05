@@ -491,9 +491,9 @@
       },
       {
         "scopeName": "Roof Anchors",
-        "division": 12000,
+        "division": 11000,
         "estimator": "Gabriela",
-        "state": "Active",
+        "state": "Not Active",
         "subTrades": [
           {
             "company": "UCEL Access",
@@ -628,6 +628,20 @@
             "subTrade_contact": "Hala Jabr",
             "contact_phone": "905.224.0664",
             "contact_email": "hjabr@coastappliances.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Security",
+        "division": 16000,
+        "estimator": "Gabriela",
+        "state": "Active",
+        "subTrades": [
+          {
+            "company": "Locksmiths & Safemen Security Hardware LTD.",
+            "subTrade_contact": "Neal Emby",
+            "contact_phone": "416-990-4149",
+            "contact_email": "NEmby@lssecurity.com"
           }
         ]
       }
