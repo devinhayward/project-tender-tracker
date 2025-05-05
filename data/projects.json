@@ -466,8 +466,8 @@
       {
         "scopeName": "Misc Insulation",
         "division": 7000,
-        "estimator": "Merlita - Not Started",
-        "state": "Active",
+        "estimator": "Merlita",
+        "state": "Not Active",
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -551,7 +551,7 @@
         "scopeName": "Carpentry",
         "division": 6000,
         "estimator": "TBD",
-        "state": "Active",
+        "state": "Not Active",
         "subTrades": [
           {
             "company": "Matera",
