@@ -296,6 +296,38 @@
         ]
       },
       {
+        "scopeName": "Masonry",
+        "division": 4000,
+        "estimator": "Gabriela",
+        "state": "Active",
+        "subTrades": [
+          {
+            "company": "Limen Masonry",
+            "subTrade_contact": "Robert Molyneaux",
+            "contact_phone": "416.638.8880 x224",
+            "contact_email": "RMolyneaux@limengroup.com"
+          },
+          {
+            "company": "Medi Group Inc.",
+            "subTrade_contact": "Mark Rotstein",
+            "contact_phone": "416.741.2737",
+            "contact_email": "markr@medigroup.net"
+          },
+          {
+            "company": "Highrise Masonry",
+            "subTrade_contact": "T.J. Kemp",
+            "contact_phone": "647.993.2218",
+            "contact_email": "tkemp@highrisemasonry.com"
+          },
+          {
+            "company": "Trican Masonry",
+            "subTrade_contact": "Craig Tardiff",
+            "contact_phone": "905.278.7800",
+            "contact_email": "craigt@tricanmasonry.com"
+          }
+        ]
+      },
+      {
         "scopeName": "Glazing",
         "division": 8000,
         "estimator": "Gabriela",
