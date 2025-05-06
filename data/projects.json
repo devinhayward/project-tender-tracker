@@ -8,6 +8,7 @@
         "estimator": "Merlita",
         "state": "Active",
         "division": 12000,
+        "notes": [],
         "subTrades": [
           {
             "company": "CA Blinds",
@@ -34,6 +35,7 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Awarded",
+        "notes": [],
         "subTrades": [
           {
             "company": "Toro Glass Railing",
@@ -60,6 +62,7 @@
         "estimator": "Ricky / Austin",
         "state": "Active",
         "division": 10000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Metropolitan",
@@ -92,6 +95,7 @@
         "estimator": "Ricky",
         "state": "Awarded",
         "division": 6000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Matera",
@@ -118,6 +122,7 @@
         "estimator": "Devin",
         "state": "Active",
         "division": 9000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -138,6 +143,7 @@
         "estimator": "Ricky",
         "state": "Active",
         "division": 9000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Exquisite Painting",
@@ -170,6 +176,7 @@
         "estimator": "Ricky / Austin",
         "state": "Active",
         "division": 10000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Wilcox Door Service Inc.",
@@ -202,6 +209,7 @@
         "estimator": "Merlita",
         "state": "Active",
         "division": 10000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Astley Gilbert",
@@ -228,6 +236,7 @@
         "estimator": "Jackie - Completed",
         "state": "Awarded",
         "division": 12000,
+        "notes": [],
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -248,6 +257,7 @@
         "estimator": "Ricky",
         "state": "Active",
         "division": 2000,
+        "notes": [],
         "subTrades": [
           {
             "company": "UCC Group Inc.",
@@ -280,6 +290,7 @@
         "division": 2000,
         "estimator": "Ricky",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "CRCE Construction",
@@ -300,6 +311,7 @@
         "division": 4000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Limen Masonry",
@@ -332,6 +344,7 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Sky Windows",
@@ -364,6 +377,7 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Alugard Railings",
@@ -390,6 +404,7 @@
         "division": 16000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "ONeil Electric",
@@ -410,6 +425,7 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Citywide Door Hardware",
@@ -430,6 +446,7 @@
         "division": 7000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Basic Caulking",
@@ -468,6 +485,7 @@
         "division": 7000,
         "estimator": "Merlita",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -494,6 +512,7 @@
         "division": 11000,
         "estimator": "Gabriela",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "UCEL Access",
@@ -532,6 +551,7 @@
         "division": 9000,
         "estimator": "TBD",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -552,6 +572,7 @@
         "division": 6000,
         "estimator": "Ricky",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Matera",
@@ -578,6 +599,7 @@
         "division": 9000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Marel Drywall",
@@ -616,6 +638,7 @@
         "division": 12000,
         "estimator": "Jackie",
         "state": "Awarded",
+        "notes": [],
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -636,6 +659,7 @@
         "division": 16000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Locksmiths & Safemen Security Hardware LTD.",
@@ -656,6 +680,7 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Sky Windows",
@@ -688,6 +713,7 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Toro Glass Railing",
@@ -714,6 +740,7 @@
         "division": 4000,
         "estimator": "Merlita",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Limen Masonry",
@@ -746,6 +773,7 @@
         "division": 7000,
         "estimator": "Merlita - Not Started",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -772,6 +800,7 @@
         "division": 7000,
         "estimator": "Merlita",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Northern Caulking",
@@ -804,6 +833,7 @@
         "division": 9000,
         "estimator": "Devin / Merlita",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Marel Drywall",
@@ -842,6 +872,7 @@
         "division": 9000,
         "estimator": "Merlita",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -862,6 +893,7 @@
         "division": 6000,
         "estimator": "Ricky",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Matera",
@@ -888,6 +920,7 @@
         "division": 12000,
         "estimator": "Jackie - Completed",
         "state": "Awarded",
+        "notes": [],
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -914,6 +947,7 @@
         "division": 6000,
         "estimator": "Gabriela",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Matera",
@@ -940,6 +974,7 @@
         "division": 8000,
         "estimator": "Devin",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Citywide Door Hardware",
@@ -960,6 +995,7 @@
         "division": 10000,
         "estimator": "Ricky / Austin",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Metropolitan",
@@ -992,6 +1028,7 @@
         "division": 10000,
         "estimator": "Merlita",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Astley Gilbert",
@@ -1018,6 +1055,7 @@
         "division": 16000,
         "estimator": "Ricky",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Gteck Security",
@@ -1044,6 +1082,7 @@
         "division": 8000,
         "estimator": "Ricky / Austin",
         "state": "Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "Wilcox Door Service Inc.",
@@ -1076,6 +1115,7 @@
         "division": 12000,
         "estimator": "Jackie",
         "state": "Awarded",
+        "notes": [],
         "subTrades": [
           {
             "company": "Appliance Canada",
@@ -1102,6 +1142,7 @@
         "division": 2000,
         "estimator": "Ricky / Merlita",
         "state": "Not Active",
+        "notes": [],
         "subTrades": [
           {
             "company": "UCC Group Inc.",
