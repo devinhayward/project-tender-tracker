@@ -35,7 +35,13 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Awarded",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-08T11:32:00Z",
+            "author": "Devin",
+            "text": "Gabriela submitted the Trade Rec and spoke with Kevin Cao + Jingwei Zang about questions related to Alugard proposal / submittals. Award should be imminent."
+          }
+        ],
         "subTrades": [
           {
             "company": "Toro Glass Railing",
