@@ -276,6 +276,33 @@
     "projectOrder": 2,
     "scopes": [
       {
+        "scopeName": "Metal Cladding",
+        "division": 7000,
+        "estimator": "Gabriela",
+        "state": "Active",
+        "notes": [],
+        "subTrades": [
+          {
+            "company": "CladCo",
+            "subTrade_contact": "Todd MacLellan",
+            "contact_phone": "289.442.1568",
+            "contact_email": "todd@cladco.com"
+          }, 
+          {
+            "company": "Wiedehopf",
+            "subTrade_contact": "Sogand Mohammadi",
+            "contact_phone": "905.761.1100",
+            "contact_email": "info@wiedehopf.ca"
+          },
+          {
+            "company": "Triumph Aluminum",
+            "subTrade_contact": "Ughi Shipram Rajendran",
+            "contact_phone": "416.534.8877 x112",
+            "contact_email": "urajendran@triumphinc.ca"
+          }
+        ]
+      },
+      {
         "scopeName": "Landscaping",
         "division": 2000,
         "estimator": "Ricky",
@@ -652,6 +679,39 @@
     "projectOrder": 3,
     "scopes": [
       {
+        "scopeName": "Metal Cladding",
+        "division": 7000,
+        "estimator": "Gabriela",
+        "state": "Active",
+        "notes": [],
+        "subTrades": [
+          {
+            "company": "CladCo",
+            "subTrade_contact": "Todd MacLellan",
+            "contact_phone": "289.442.1568",
+            "contact_email": "todd@cladco.com"
+          },
+          {
+            "company": "Kaya",
+            "subTrade_contact": "Jean-François",
+            "contact_phone": "450.655.2000 x 222",
+            "contact_email": ""
+          },
+          {
+            "company": "OSTIM Construction LTD.",
+            "subTrade_contact": "Ronak Sadeghian",
+            "contact_phone": "416.550.2053",
+            "contact_email": "ronak@ostim.ca"
+          },
+          {
+            "company": "Triumph Aluminum",
+            "subTrade_contact": "Ughi Shipram Rajendran",
+            "contact_phone": "416.534.8877 x112",
+            "contact_email": "urajendran@triumphinc.ca"
+          }
+        ]
+      },
+      {
         "scopeName": "Glazing",
         "division": 8000,
         "estimator": "Gabriela",
@@ -909,6 +969,33 @@
     "projectName": "26 Gilder Tower_Rose Corp",
     "projectOrder": 5,
     "scopes": [
+      {
+        "scopeName": "Metal Cladding",
+        "division": 7000,
+        "estimator": "Ricky",
+        "state": "Active",
+        "notes": [],
+        "subTrades": [
+          {
+            "company": "CladCo",
+            "subTrade_contact": "Todd MacLellan",
+            "contact_phone": "289.442.1568",
+            "contact_email": "todd@cladco.com"
+          }, 
+          {
+            "company": "OSTIM Construction LTD.",
+            "subTrade_contact": "Ronak Sadeghian",
+            "contact_phone": "416.550.2053",
+            "contact_email": "ronak@ostim.ca"
+          },
+          {
+            "company": "Triumph Aluminum",
+            "subTrade_contact": "Ughi Shipram Rajendran",
+            "contact_phone": "416.534.8877 x112",
+            "contact_email": "urajendran@triumphinc.ca"
+          }
+        ]
+      },
       {
         "scopeName": "Carpentry",
         "division": 6000,
