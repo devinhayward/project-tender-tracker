@@ -41,6 +41,11 @@
             "author": "Devin",
             "text": "Gabriela submitted the Trade Rec and spoke with Kevin Cao + Jingwei Zang about questions related to Alugard proposal / submittals. Award should be imminent."
           }
+          {
+            "timestamp": "2025-05-15T13:07:00Z",
+            "author": "Devin",
+            "text": "CHMC soft requirements came up for Clear Glass at the balconies. This is a change in scope. PPM is deciding on final requirements and may require revised pricng from Alugard."
+          }
         ],
         "subTrades": [
           {
@@ -68,7 +73,14 @@
         "estimator": "Ricky / Austin",
         "state": "Active",
         "division": 10000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-15T13:11:00Z",
+            "author": "Devin",
+            "text": "Chasing both Keystone + JJ Home Products for the final pricing."
+          }
+
+        ],
         "subTrades": [
           {
             "company": "Metropolitan",
@@ -101,7 +113,13 @@
         "estimator": "Ricky",
         "state": "Awarded",
         "division": 6000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-15T13:12:00Z",
+            "author": "Devin",
+            "text": "Cristian is meeting with Marco (Matera) at PPMs office for award meeting on Friday May 16th. Award should be wrapped up with that."
+          }
+        ],
         "subTrades": [
           {
             "company": "Matera",
@@ -128,7 +146,13 @@
         "estimator": "Devin",
         "state": "Active",
         "division": 9000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-15T13:15:00Z",
+            "author": "Devin",
+            "text": "Devin sent trade rec out for Classic Tile. Awaiting approval from PPM."
+          }
+        ],
         "subTrades": [
           {
             "company": "Classic Tile",
