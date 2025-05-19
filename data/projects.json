@@ -37,14 +37,19 @@
         "state": "Awarded",
         "notes": [
           {
-            "timestamp": "2025-05-08T11:32:00Z",
+            "timestamp": "2025-05-08T11:32:00-04:00",
             "author": "Devin",
             "text": "Gabriela submitted the Trade Rec and spoke with Kevin Cao + Jingwei Zang about questions related to Alugard proposal / submittals. Award should be imminent."
           },
           {
-            "timestamp": "2025-05-15T13:07:00Z",
+            "timestamp": "2025-05-15T13:07:00-04:00",
             "author": "Devin",
             "text": "CHMC soft requirements came up for Clear Glass at the balconies. This is a change in scope. PPM is deciding on final requirements and may require revised pricng from Alugard."
+          },
+          {
+            "timestamp": "2025-05-19T09:25:00-04:00",
+            "author": "Devin",
+            "text": "PPM awarded to Alugard on Thursday May 15th."
           }
         ],
         "subTrades": [
@@ -75,7 +80,7 @@
         "division": 10000,
         "notes": [
           {
-            "timestamp": "2025-05-15T13:11:00Z",
+            "timestamp": "2025-05-15T13:11:00-04:00",
             "author": "Devin",
             "text": "Chasing both Keystone + JJ Home Products for the final pricing."
           }
@@ -115,9 +120,14 @@
         "division": 6000,
         "notes": [
           {
-            "timestamp": "2025-05-15T13:12:00Z",
+            "timestamp": "2025-05-15T13:12:00-04:00",
             "author": "Devin",
             "text": "Cristian is meeting with Marco (Matera) at PPMs office for award meeting on Friday May 16th. Award should be wrapped up with that."
+          },
+          {
+            "timestamp": "2025-05-19T09:23:00-04:00",
+            "author": "Devin",
+            "text": "PPM awarded to Matera at Friday May 16th meeting."
           }
         ],
         "subTrades": [
@@ -148,9 +158,14 @@
         "division": 9000,
         "notes": [
           {
-            "timestamp": "2025-05-15T13:15:00Z",
+            "timestamp": "2025-05-15T13:15:00-04:00",
             "author": "Devin",
             "text": "Devin sent trade rec out for Classic Tile. Awaiting approval from PPM."
+          },
+          {
+            "timestamp": "2025-05-19T09:14:00-04:00",
+            "author": "Devin",
+            "text": "PPM wanted samples. Devin spoke with Joe and Amir to set up a meeting with Classic + ID + PPM to get approvals on the colour's + styles for the final tiles."
           }
         ],
         "subTrades": [
@@ -173,7 +188,13 @@
         "estimator": "Ricky",
         "state": "Active",
         "division": 9000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-19T09:18:00-04:00",
+            "author": "Devin",
+            "text": "Ricky has completed all the scope. Devin to final check documents and then ready to send out to PPM."
+          }
+        ],
         "subTrades": [
           {
             "company": "Exquisite Painting",
@@ -287,7 +308,13 @@
         "estimator": "Ricky",
         "state": "Active",
         "division": 2000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-15T09:15:00-04:00",
+            "author": "Devin",
+            "text": "There are some final questions to answer. Ricky + Amir are working to get there and get the prices from CRCE + Orin. Then meetings."
+          }
+        ],
         "subTrades": [
           {
             "company": "UCC Group Inc.",
@@ -863,7 +890,13 @@
         "division": 7000,
         "estimator": "Merlita - Not Started",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-19T10:19:00-04:00",
+            "author": "Devin",
+            "text": "Meetings are complete. Some revised pricing is required from RJB. RJB appears to be the front runner here."
+          }
+        ],
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -890,7 +923,13 @@
         "division": 7000,
         "estimator": "Merlita",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-19T10:17:00-04:00",
+            "author": "Devin",
+            "text": "Meetings are complete. Appears PPM wants a package deal for Mill Road also. Basic Caulking appears in the drivers seat here."
+          }
+        ],
         "subTrades": [
           {
             "company": "Northern Caulking",
@@ -1036,8 +1075,14 @@
         "scopeName": "Metal Cladding",
         "division": 7000,
         "estimator": "Ricky",
-        "state": "Active",
-        "notes": [],
+        "state": "Awarded",
+        "notes": [
+          {
+            "timestamp": "2025-05-19T10:04:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to CladCo on Friday May 16th, 2025."
+          }
+        ],
         "subTrades": [
           {
             "company": "CladCo",
@@ -1064,7 +1109,13 @@
         "division": 6000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-19T10:12:00-04:00",
+            "author": "Devin",
+            "text": "Hopefully Matera can get all revised prices in this week and award will follow."
+          }
+        ],
         "subTrades": [
           {
             "company": "Matera",
@@ -1091,7 +1142,13 @@
         "division": 8000,
         "estimator": "Devin",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-19T10:09:00-04:00",
+            "author": "Devin",
+            "text": "I am waiting on revised pricing from Citywide. Then can update the analysis and sent to Rose Corp. Citywide missed a soft deadline Friday, so I hope no problems with Rose Corp."
+          }
+        ],
         "subTrades": [
           {
             "company": "Citywide Door Hardware",
@@ -1199,7 +1256,13 @@
         "division": 8000,
         "estimator": "Ricky / Austin",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-15T10:07:00-04:00",
+            "author": "Devin",
+            "text": "Appears to be going to Lenworth as Atlas Doors did not answer phone calls in a timely manner."
+          }
+        ],
         "subTrades": [
           {
             "company": "Wilcox Door Service Inc.",
@@ -1232,7 +1295,13 @@
         "division": 12000,
         "estimator": "Jackie",
         "state": "Awarded",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-19T09:31:00-04:00",
+            "author": "Devin",
+            "text": "PPM awarded to Midnorthern Appliances on Jan 21, 2025."
+          }
+        ],
         "subTrades": [
           {
             "company": "Appliance Canada",

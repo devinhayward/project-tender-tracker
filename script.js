@@ -11,7 +11,16 @@ fetch('data/projects.json')
           <strong>Notes:</strong>
           <ul>
             ${scope.notes.map(note => {
-              const time = new Date(note.timestamp).toLocaleString();
+              const date = new Date(note.timestamp);
+              const time = date.toLocaleString('en-CA', {
+                timeZone: 'America/Toronto',
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit',
+                hour12: true
+              });
               return `<li><strong>${note.author}</strong> (${time}): ${note.text}</li>`;
             }).join('')}
           </ul>
