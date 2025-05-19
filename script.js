@@ -1,6 +1,33 @@
 fetch('data/projects.json')
   .then(response => response.json())
   .then(projects => {
+    function renderNotesHTML(scope) {
+      if (!scope.notes || scope.notes.length === 0) {
+        return '<div class="notes"><em>No notes yet.</em></div>';
+      }
+
+      return `
+        <div class="notes">
+          <strong>Notes:</strong>
+          <ul>
+            ${scope.notes.map(note => {
+              const date = new Date(note.timestamp);
+              const time = date.toLocaleString('en-CA', {
+                timeZone: 'America/Toronto',
+                year: 'numeric',
+                month: 'short',
+                day: 'numeric',
+                hour: 'numeric',
+                minute: '2-digit',
+                hour12: true
+              });
+              return `<li><strong>${note.author}</strong> (${time}): ${note.text}</li>`;
+            }).join('')}
+          </ul>
+        </div>
+      `;
+    }
+
     const container = document.getElementById('projects-container');
     projects.sort((a, b) => (a.projectOrder ?? 9999) - (b.projectOrder ?? 9999));
 
@@ -48,6 +75,7 @@ fetch('data/projects.json')
                         </ul>
                       </div>
                     ` : ''}
+                    ${renderNotesHTML(scope)}
                   </li>
                 `).join('')}
             </ul>
