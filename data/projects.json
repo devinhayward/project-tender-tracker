@@ -172,6 +172,11 @@
             "timestamp": "2025-05-19T09:14:00-04:00",
             "author": "Devin",
             "text": "PPM wanted samples. Devin spoke with Joe and Amir to set up a meeting with Classic + ID + PPM to get approvals on the colour's + styles for the final tiles."
+          },
+          {
+            "timestamp": "2025-05-21T19:45:00-04:00",
+            "author": "Devin",
+            "text": "Spoke to Joe about setting up the meeting today again. Not sure it has been set up."
           }
         ],
         "subTrades": [
@@ -243,6 +248,11 @@
             "timestamp": "2025-05-21T08:44:00-04:00",
             "author": "Devin",
             "text": "Ricky has passed the package to PM (Amir) as he owes the SOW etc. Amir is back on backlog as he has other priorities currently."
+          },
+          {
+            "timestamp": "2025-05-21T19:42:00-04:00",
+            "author": "Devin",
+            "text": "Ricky to send to Max Overhead Doors. New Guy for pricing."
           }
         ],
         "subTrades": [
@@ -269,6 +279,12 @@
             "subTrade_contact": "Daryl Duda",
             "contact_phone": "",
             "contact_email": "daryl@burrelloverheaddoor.com"
+          },
+          {
+            "company": "Max Overhead Doors",
+            "subTrade_contact": "Jorge Andrade",
+            "contact_phone": "416.881.9084",
+            "contact_email": "j.andrade@maxohd.com"
           }
         ]
       },
@@ -336,6 +352,11 @@
             "timestamp": "2025-05-15T09:15:00-04:00",
             "author": "Devin",
             "text": "There are some final questions to answer. Ricky + Amir are working to get there and get the prices from CRCE + Orin. Then meetings."
+          },
+          {
+            "timestamp": "2025-05-21T19:40:00-04:00",
+            "author": "Devin",
+            "text": "We have pricing from CRCE and UCC. Waiting on pricing from Orin. Note all the bidders met PM on site and reviewed."
           }
         ],
         "subTrades": [
@@ -370,7 +391,13 @@
         "division": 7000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T19:38:00-04:00",
+            "author": "Devin",
+            "text": "Scope review meeting is set for Monday. Will then get paperwork in order for award."
+          }
+        ],
         "subTrades": [
           {
             "company": "CladCo",
@@ -397,7 +424,13 @@
         "division": 2000,
         "estimator": "Ricky",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T19:38:00-04:00",
+            "author": "Devin",
+            "text": "Waiting on final pricing for the existing building landscaping."
+          }
+        ],
         "subTrades": [
           {
             "company": "CRCE Construction",
@@ -423,6 +456,11 @@
             "timestamp": "2025-05-21T08:51:00-04:00",
             "author": "Devin",
             "text": "Gabriela is working on a scope review meeting with Limen for this week. Then we can finalize the paperwork for award."
+          },
+          {
+            "timestamp": "2025-05-21T19:38:00-04:00",
+            "author": "Devin",
+            "text": "Scope review meeting is set for Monday. Will then get paperwork in order for award."
           }
         ],
         "subTrades": [
@@ -793,7 +831,13 @@
         "division": 7000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T19:35:00-04:00",
+            "author": "Devin",
+            "text": "We are waiting on final pricing. Might be changes to the MPH. Will have to discuss with the low bidder."
+          }
+        ],
         "subTrades": [
           {
             "company": "CladCo",
@@ -831,6 +875,11 @@
             "timestamp": "2025-05-20T13:19:00-04:00",
             "author": "Devin",
             "text": "Hopefully the final award is coming to Sky Windows. Cristian is meeting with Peter + PPM this week to finalize."
+          },
+          {
+            "timestamp": "2025-05-21T19:34:00-04:00",
+            "author": "Devin",
+            "text": "Cristian's award meeting with Sky was switched to next week as PPM is busy this week."
           }
         ],
         "subTrades": [
@@ -1014,6 +1063,11 @@
             "timestamp": "2025-05-20T13:11:00-04:00",
             "author": "Devin",
             "text": "We have asked Marel for price revisions only based on the revised drawings. Idea is for a package deal with Mill Road."
+          },
+          {
+            "timestamp": "2025-05-21T19:32:00-04:00",
+            "author": "Devin",
+            "text": "Sohrab said today that PPM is revising suites again and SI is to come Friday this week."
           }
         ],
         "subTrades": [
@@ -1167,6 +1221,11 @@
             "timestamp": "2025-05-19T10:12:00-04:00",
             "author": "Devin",
             "text": "Hopefully Matera can get all revised prices in this week and award will follow."
+          },
+          {
+            "timestamp": "2025-05-21T19:25:00-04:00",
+            "author": "Devin",
+            "text": "Matera has said they will send their price by Thursday (tomorrow) Morning. Gabriela to revise bid analysis and bring over finish line."
           }
         ],
         "subTrades": [
@@ -1200,6 +1259,11 @@
             "timestamp": "2025-05-19T10:09:00-04:00",
             "author": "Devin",
             "text": "I am waiting on revised pricing from Citywide. Then can update the analysis and sent to Rose Corp. Citywide missed a soft deadline Friday, so I hope no problems with Rose Corp."
+          },
+          {
+            "timestamp": "2025-05-21T19:26:00-04:00",
+            "author": "Devin",
+            "text": "Citywide has sent me their price, but I had questions and back and forth with them. Hopefully tomorrow morning they will be back to me."
           }
         ],
         "subTrades": [
@@ -1222,7 +1286,13 @@
         "division": 10000,
         "estimator": "Ricky / Austin",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T19:24:00-04:00",
+            "author": "Devin",
+            "text": "We have received the prices but the final SOW is on hold from Rose Corp."
+          }
+        ],
         "subTrades": [
           {
             "company": "Metropolitan",
