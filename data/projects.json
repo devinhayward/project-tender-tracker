@@ -8,7 +8,13 @@
         "estimator": "Merlita",
         "state": "Active",
         "division": 12000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T08:36:00-04:00",
+            "author": "Devin",
+            "text": "Merlita has an few email RFIs in to BDPQ. She has to chase down answers to finalize. Then I will check everything and we will send to PPM for their final decision."
+          }
+        ],
         "subTrades": [
           {
             "company": "CA Blinds",
@@ -193,6 +199,11 @@
             "timestamp": "2025-05-19T09:18:00-04:00",
             "author": "Devin",
             "text": "Ricky has completed all the scope. Devin to final check documents and then ready to send out to PPM."
+          },
+          {
+            "timestamp": "2025-05-21T08:42:00-04:00",
+            "author": "Devin",
+            "text": "I completed the full check yesterday and had some questions. Ricky is finalizing and will then come to me for final check."
           }
         ],
         "subTrades": [
@@ -227,7 +238,13 @@
         "estimator": "Ricky / Austin",
         "state": "Active",
         "division": 10000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T08:44:00-04:00",
+            "author": "Devin",
+            "text": "Ricky has passed the package to PM (Amir) as he owes the SOW etc. Amir is back on backlog as he has other priorities currently."
+          }
+        ],
         "subTrades": [
           {
             "company": "Wilcox Door Service Inc.",
@@ -258,9 +275,15 @@
       {
         "scopeName": "Signage",
         "estimator": "Merlita",
-        "state": "Active",
+        "state": "Not Active",
         "division": 10000,
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T08:46:00-04:00",
+            "author": "Devin",
+            "text": "Merlita is waiting for the signage package from BDPQ. We will then tender out the package."
+          }
+        ],
         "subTrades": [
           {
             "company": "Astley Gilbert",
@@ -395,7 +418,13 @@
         "division": 4000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T08:51:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela is working on a scope review meeting with Limen for this week. Then we can finalize the paperwork for award."
+          }
+        ],
         "subTrades": [
           {
             "company": "Limen Masonry",
@@ -797,7 +826,13 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:19:00-04:00",
+            "author": "Devin",
+            "text": "Hopefully the final award is coming to Sky Windows. Cristian is meeting with Peter + PPM this week to finalize."
+          }
+        ],
         "subTrades": [
           {
             "company": "Sky Windows",
@@ -830,7 +865,13 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:18:00-04:00",
+            "author": "Devin",
+            "text": "Waiting on revised pricing based on the revised drawings."
+          }
+        ],
         "subTrades": [
           {
             "company": "Toro Glass Railing",
@@ -857,7 +898,13 @@
         "division": 4000,
         "estimator": "Merlita",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:12:00-04:00",
+            "author": "Devin",
+            "text": "Just getting all the final paperwork in order. Ready for a package deal with Mill Road."
+          }
+        ],
         "subTrades": [
           {
             "company": "Limen Masonry",
@@ -962,7 +1009,13 @@
         "division": 9000,
         "estimator": "Devin / Merlita",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:11:00-04:00",
+            "author": "Devin",
+            "text": "We have asked Marel for price revisions only based on the revised drawings. Idea is for a package deal with Mill Road."
+          }
+        ],
         "subTrades": [
           {
             "company": "Marel Drywall",
@@ -1202,7 +1255,13 @@
         "division": 10000,
         "estimator": "Merlita",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:05:00-04:00",
+            "author": "Devin",
+            "text": "Rose Corp is going back and forth between Astley Gilbert + Sign Network. Merlita is waiting on their final decision."
+          }
+        ],
         "subTrades": [
           {
             "company": "Astley Gilbert",
@@ -1229,7 +1288,13 @@
         "division": 16000,
         "estimator": "Ricky",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:07:00-04:00",
+            "author": "Devin",
+            "text": "Ricky held meetings with GTeck and Bond Securcom. Appears Bond is the faviorite and Ricky is waiting on revised pricing from them."
+          }
+        ],
         "subTrades": [
           {
             "company": "Gteck Security",
@@ -1328,7 +1393,13 @@
         "division": 2000,
         "estimator": "Ricky / Merlita",
         "state": "Not Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-20T13:09:00-04:00",
+            "author": "Devin",
+            "text": "I am hoping to tender this later in the summer or fall, if Rose Corp does not demand earlier."
+          }
+        ],
         "subTrades": [
           {
             "company": "UCC Group Inc.",
