@@ -395,7 +395,7 @@
           {
             "timestamp": "2025-05-21T19:38:00-04:00",
             "author": "Devin",
-            "text": "Scope review meeting is set for Monday. Will then get paperwork in order for award."
+            "text": "Need to get all the prices and complete the analysis. Most probably PPM will want to VE the MPH."
           }
         ],
         "subTrades": [
@@ -495,7 +495,18 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:08:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela sent the invite to Alugard Windows and gave them two weeks to respond."
+          },
+          {
+            "timestamp": "2025-05-21T20:09:00-04:00",
+            "author": "Devin",
+            "text": "Will have to have detailed meetings with the second lowest bidder to try qualify their system."
+          }
+        ],
         "subTrades": [
           {
             "company": "Sky Windows",
@@ -520,6 +531,12 @@
             "subTrade_contact": "Brian Cohen",
             "contact_phone": "416.646.1421",
             "contact_email": "bcohen@statecorp.com"
+          },
+          {
+            "company": "Alugard Windows",
+            "subTrade_contact": "Pellumb Ruci",
+            "contact_phone": "647.395.5275",
+            "contact_email": "pellumb@alugard.ca"
           }
         ]
       },
@@ -528,7 +545,13 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:12:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela has the prices. Will have to coordinate this with the windows as the Julliet option may intersect."
+          }
+        ],
         "subTrades": [
           {
             "company": "Alugard Railings",
@@ -555,7 +578,13 @@
         "division": 16000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:06:00-04:00",
+            "author": "Devin",
+            "text": "When we receive the coordinated electrical drawings we can close out the tender."  
+          }
+        ],
         "subTrades": [
           {
             "company": "ONeil Electric",
@@ -576,7 +605,13 @@
         "division": 8000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:03:00-04:00",
+            "author": "Devin",
+            "text": "When we receive the final electrical drawings and coordinated drawings we will send out the tender. We will prepare a tender sheet to try and get back reasonable prices to make the tender easier."
+          }
+        ],
         "subTrades": [
           {
             "company": "Citywide Door Hardware",
@@ -595,9 +630,15 @@
       {
         "scopeName": "Caulking",
         "division": 7000,
-        "estimator": "Gabriela",
+        "estimator": "Merlita",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T19:55:00-04:00",
+            "author": "Devin",
+            "text": "Merlita to have a detailed discussions with some bidders as their costs are too high. We will then have a quick meeting with Basic Caulking probably and then put together a package deal with Lolita."
+          }
+        ],
         "subTrades": [
           {
             "company": "Basic Caulking",
@@ -635,8 +676,14 @@
         "scopeName": "Misc Insulation",
         "division": 7000,
         "estimator": "Merlita",
-        "state": "Not Active",
-        "notes": [],
+        "state": "Active",
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:01:00-04:00",
+            "author": "Devin",
+            "text": "Merlita sent out the tender. Tender close is May 29th. Will prob then set up a combo award with RJB."
+          }
+        ],
         "subTrades": [
           {
             "company": "RJB Insulation Inc.",
@@ -662,8 +709,14 @@
         "scopeName": "Roof Anchors",
         "division": 11000,
         "estimator": "Gabriela",
-        "state": "Not Active",
-        "notes": [],
+        "state": "Active",
+        "notes": [
+          {
+            "timestamp": "2025-05-21T19:55:00-04:00",
+            "author": "Devin",
+            "text": "We got the SI today for the roof anchors prelim design. Gabriela to send out the tender tomorrow and give them two weeks."
+          }
+        ],
         "subTrades": [
           {
             "company": "UCEL Access",
@@ -702,7 +755,13 @@
         "division": 9000,
         "estimator": "TBD",
         "state": "Not Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:15:00-04:00",
+            "author": "Devin",
+            "text": "Will send out this tender when we have Balliol Flooring Finalized."
+          }
+        ],
         "subTrades": [
           {
             "company": "Classic Tile",
@@ -750,7 +809,13 @@
         "division": 9000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:17:00-04:00",
+            "author": "Devin",
+            "text": "Waiting on the Coordinated Reflected Ceiling Plans to close the tender."
+          }
+        ],
         "subTrades": [
           {
             "company": "Marel Drywall",
@@ -810,7 +875,13 @@
         "division": 16000,
         "estimator": "Gabriela",
         "state": "Active",
-        "notes": [],
+        "notes": [
+          {
+            "timestamp": "2025-05-21T20:19:00-04:00",
+            "author": "Devin",
+            "text": "Need the coordinated electrical plans to close this tender."
+          }
+        ],
         "subTrades": [
           {
             "company": "Locksmiths & Safemen Security Hardware LTD.",
