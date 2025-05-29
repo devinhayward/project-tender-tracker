@@ -250,9 +250,9 @@
             "text": "I completed the full check yesterday and had some questions. Ricky is finalizing and will then come to me for final check."
           },
           {
-            "timestamp": "2025-05-28T10:51:00-04:00",
-            "author": "Devin",
-            "text": "Amir(PM) is confirming on the sealer scope. If it is in waterproofing will remove it from Painting. From there I will complete final check and we can send out the trade rec."
+            "timestamp": "2025-05-29T11:49:00-04:00",
+            "author": "Devin", 
+            "text": "Ricky got the info from Amir(PM) on the sealer req'd. Should be able next week to send Trade Rec out."
           }
         ],
         "subTrades": [
@@ -1369,6 +1369,27 @@
             "subTrade_contact": "Hala Jabr",
             "contact_phone": "905.224.0664",
             "contact_email": "hjabr@coastappliances.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Security",
+        "division": 16000,
+        "estimator": "Gabriela",
+        "state": "Active",
+        "notes": [
+          {
+            "timestamp": "2025-05-29T08:54:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela is working on both Mill Road + Lolita with L&S Security."
+          }
+        ],
+        "subTrades": [
+          {
+            "company": "Locksmiths & Safemen Security Hardware LTD.",
+            "subTrade_contact": "Neal Emby",
+            "contact_phone": "416-990-4149",
+            "contact_email": "NEmby@lssecurity.com"
           }
         ]
       }
