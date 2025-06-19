@@ -724,6 +724,11 @@
             "timestamp": "2025-05-21T20:03:00-04:00",
             "author": "Devin",
             "text": "When we receive the final electrical drawings and coordinated drawings we will send out the tender. We will prepare a tender sheet to try and get back reasonable prices to make the tender easier."
+          },
+          {
+            "timestamp": "2025-05-19T16:39:00-04:00",
+            "author": "Devin",
+            "text": "Jingwei is asking for hardware for Mill Road so they can combine with Lolita. I sent out today to Citywide + American Hardware + Trillium Hardware. American Hardware declined so that is why I am trying to get a second price from Trillium Hardware. Gave them two weeks to price."
           }
         ],
         "subTrades": [
@@ -738,6 +743,12 @@
             "subTrade_contact": "Jennifer Minka",
             "contact_phone": "647.409.2920",
             "contact_email": "jminka@americanhardware.ca"
+          },
+          {
+            "company": "Trillium Hardware",
+            "subTrade_contact": "????",
+            "contact_phone": "416.555.1234",
+            "contact_email": "estimating@trilliumhardware.com"
           }
         ]
       },
@@ -761,6 +772,11 @@
             "timestamp": "2025-06-12T16:36:00-04:00",
             "author": "Devin",
             "text": "Merlita has a meeting scheduled with Basic Caulking on Tuesday at 10am."
+          },
+          {
+            "timestamp": "2025-06-19T16:32:00-04:00",
+            "author": "Devin",
+            "text": "I sent out the package Trade Rec for Mill Road + Lolita for Basic Caulking today."
           }
         ],
         "subTrades": [
@@ -968,6 +984,11 @@
             "timestamp": "2025-06-12T16:27:00-04:00",
             "author": "Devin",
             "text": "We sent out the draft ceiling plans to the bidders to close out the tender. Select Drywall did not call me back."
+          },
+          {
+            "timestamp": "2025-06-19T16:30:00-04:00",
+            "author": "Devin",
+            "text": "We should have prices from Torino, and Cobell by Monday."
           }
         ],
         "subTrades": [
@@ -1338,6 +1359,11 @@
             "timestamp": "2025-06-12T16:23:00-04:00",
             "author": "Devin",
             "text": "I am waiting on the revised prices from Torino + Cobell. Also need Revised price from Marel."
+          },
+          {
+            "timestamp": "2025-06-19T16:33:00-04:00",
+            "author": "Devin",
+            "text": "I have the revised price per latest drawings from Torino. Cobell should be getting me a price this week as well, if not early next week."
           }
         ],
         "subTrades": [
@@ -1527,6 +1553,11 @@
             "timestamp": "2025-06-12T16:21:00-04:00",
             "author": "Devin",
             "text": "Gabriela has an award meeting scheduled for next Wed at Head Office with Matera + Rose Corp."
+          },
+          {
+            "timestamp": "2025-06-19T16:44:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to Matera yesterday, June 18th, 2025. Gabriela to finish up the contract documents for Jackie."
           }
         ],
         "subTrades": [
@@ -1580,6 +1611,11 @@
             "timestamp": "2025-06-12T16:19:00-04:00",
             "author": "Devin",
             "text": "I sent all the revised Docs to Citywide. Rose Corp had a discusssion with them about some changes. Rose Corp is now pushing for the final price. I am chasing Citywide."
+          },
+          {
+            "timestamp": "2025-06-19T16:36:00-04:00",
+            "author": "Devin",
+            "text": "Citywide was supposed to send their revised pricing yesterday, but I am still waiting."
           }
         ],
         "subTrades": [
