@@ -13,6 +13,11 @@
             "timestamp": "2025-05-21T08:36:00-04:00",
             "author": "Devin",
             "text": "Merlita has an few email RFIs in to BDPQ. She has to chase down answers to finalize. Then I will check everything and we will send to PPM for their final decision."
+          },
+          {
+            "timestamp": "2025-06-23T10:11:00-04:00",
+            "author": "Devin",
+            "text": "Merlita is waiting on the samples for the Draperies from CA Blinds. Then final approvals and award. Maybe before end of next week."
           }
         ],
         "subTrades": [
@@ -194,7 +199,7 @@
       {
         "scopeName": "Flooring",
         "estimator": "Devin",
-        "state": "Active",
+        "state": "Awarded",
         "division": 9000,
         "notes": [
           {
@@ -236,6 +241,11 @@
             "timestamp": "2025-06-12T11:47:00-04:00",
             "author": "Devin",
             "text": "Final Revised price from Classic Time submitted to PPM, along with Trade Rec. Sent revised SOW to Classic Tile to sign just now. Will pass to PPM once signed."
+          },
+          {
+            "timestamp": "2025-06-19T16:30:00-04:00",
+            "author": "Devin",
+            "text": "Was awared to Classic Tile on Thursday June 12th."
           }
         ],
         "subTrades": [
@@ -466,6 +476,27 @@
             "subTrade_contact": "Siva Chava",
             "contact_phone": "647.354.5569",
             "contact_email": "SChava@orin.ca"
+          }
+        ]
+      },
+      {
+        "scopeName": "Fireplace",
+        "estimator": "Merlita",
+        "state": "Awarded",
+        "division": 12000,
+        "notes": [
+          {
+            "timestamp": "2025-06-23T9:51:00-04:00",
+            "author": "Devin",
+            "text": "Merlita has provided all the Information to site, the PO was Issued and Signed. Now install just need to be arranged."
+          }
+        ],
+        "subTrades": [
+          {
+            "company": "The Fireplace Company",
+            "subTrade_contact": "Benson",
+            "contact_phone": "416.998.1169",
+            "contact_email": "info@thefireplacecompany"
           }
         ]
       }
@@ -1532,7 +1563,7 @@
         "scopeName": "Carpentry",
         "division": 6000,
         "estimator": "Gabriela",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-19T10:12:00-04:00",
@@ -1720,6 +1751,11 @@
             "timestamp": "2025-05-20T13:07:00-04:00",
             "author": "Devin",
             "text": "Ricky held meetings with GTeck and Bond Securcom. Appears Bond is the faviorite and Ricky is waiting on revised pricing from them."
+          },
+          {
+            "timestamp": "2025-06-19T17:03:00-04:00",
+            "author": "Devin",
+            "text": "Rose Corp is working with Bond Securcom to complete the security. They are also buying the Salto Lock System from them."
           }
         ],
         "subTrades": [
