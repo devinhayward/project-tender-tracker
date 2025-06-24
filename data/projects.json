@@ -623,6 +623,11 @@
             "timestamp": "2025-06-12T16:34:00-04:00",
             "author": "Devin",
             "text": "I am chasing Limen for the final paperwork before I can set up the award meeting."
+          },
+          {
+            "timestamp":"2025-05-24T11:49:00-04:00",
+            "author": "Devin",
+            "text": "I sent through the Trade Rec for Limen Masonry on June 19th."
           }
         ],
         "subTrades": [
@@ -1292,13 +1297,18 @@
       {
         "scopeName": "Masonry",
         "division": 4000,
-        "estimator": "Merlita",
+        "estimator": "Merlita / Devin",
         "state": "Active",
         "notes": [
           {
             "timestamp": "2025-05-20T13:12:00-04:00",
             "author": "Devin",
             "text": "Just getting all the final paperwork in order. Ready for a package deal with Mill Road."
+          },
+          {
+            "timestamp": "2025-05-24T11:45:00-04:00",
+            "author": "Devin",
+            "text": "I sent through thet Trade Rec package for Limen Masonry on June 19th."
           }
         ],
         "subTrades": [
@@ -1381,6 +1391,11 @@
             "timestamp": "2025-05-19T10:17:00-04:00",
             "author": "Devin",
             "text": "Meetings are complete. Appears PPM wants a package deal for Mill Road also. Basic Caulking appears in the drivers seat here."
+          },
+          {
+            "timestamp":"2025-05-24T11:48:00-04:00",
+            "author": "Devin",
+            "text": "I sent through the Trade Rec for Basic Caulking on June 19th."
           }
         ],
         "subTrades": [
