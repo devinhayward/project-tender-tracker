@@ -288,6 +288,11 @@
             "timestamp": "2025-06-09T11:10:00-04:00",
             "author": "Devin",
             "text": "Ricky sent the latest info to all bidders to update their quotes. When quotes come back, he will revise all the paperwork. I will then check and finalize and we should be good to send the Trade Rec. I am expecting the Trade Rec to be Snow Painting."
+          },
+          {
+            "timestamp": "2025-06-26T17:08:00-04:00",
+            "author": "Devin",
+            "text": "Ricky has the Trade Rec package ready to go for Snow Painting when we tell him to send."
           }
         ],
         "subTrades": [
@@ -765,6 +770,11 @@
             "timestamp": "2025-05-21T20:06:00-04:00",
             "author": "Devin",
             "text": "When we receive the coordinated electrical drawings we can close out the tender."  
+          },
+          {
+            "timestamp": "2025-06-26T17:10:00-04:00",
+            "author": "Devin",
+            "text": "We have the electrical drawings out to the trades but there are outstanding RFI questions Gabriela has to get answered and out to the trades."
           }
         ],
         "subTrades": [
