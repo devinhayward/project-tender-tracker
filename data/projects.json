@@ -288,6 +288,11 @@
             "timestamp": "2025-06-09T11:10:00-04:00",
             "author": "Devin",
             "text": "Ricky sent the latest info to all bidders to update their quotes. When quotes come back, he will revise all the paperwork. I will then check and finalize and we should be good to send the Trade Rec. I am expecting the Trade Rec to be Snow Painting."
+          },
+          {
+            "timestamp": "2025-06-26T17:08:00-04:00",
+            "author": "Devin",
+            "text": "Ricky has the Trade Rec package ready to go for Snow Painting when we tell him to send."
           }
         ],
         "subTrades": [
@@ -499,6 +504,33 @@
             "contact_email": "info@thefireplacecompany"
           }
         ]
+      },
+      {
+        "scopeName": "Door & Hardware",
+        "estimator": "Gabriela",
+        "state": "Active",
+        "division": 8000,
+        "notes": [
+          {
+            "timestamp": "2025-06-24T10:35:00-04:00",
+            "author": "Devin",
+            "text": "We passed the Trade Rec for Citywide Hardware to PPM. They have asked for Additional Prices as they feel the cost should be lower. We have reached out to Almar for additional pricing."
+          }
+        ],
+        "subTrades": [
+          {
+            "company": "Allmar Inc.",
+            "subTrade_contact": "Frank Greco",
+            "contact_phone": "416.301.4032",
+            "contact_email": "Frank.Greco@allmar.com"
+          },
+          {
+            "company": "The Citywide Group",
+            "subTrade_contact": "Dominic Greco",
+            "contact_phone": "416.574.7141",
+            "contact_email": "dgreco@thecitywidegroup.com"
+          }
+        ]
       }
     ]
   },
@@ -521,6 +553,11 @@
             "timestamp": "2025-05-28T11:23:00-04:00",
             "author": "Devin",
             "text": "Waiting on the final revised pricing from all the subs. I am expecting CladCo to be the most competitive, setting up a potential combo award with Lolita."
+          },
+          {
+            "timestamp": "2025-06-25T14:33:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela is working to get over the finish line the package with Mill Road. Will also explore savings converting MPH to Metal Corrugated Siding as done on Pharmacy."
           }
         ],
         "subTrades": [
@@ -596,6 +633,11 @@
             "timestamp": "2025-06-12T16:34:00-04:00",
             "author": "Devin",
             "text": "I am chasing Limen for the final paperwork before I can set up the award meeting."
+          },
+          {
+            "timestamp":"2025-05-24T11:49:00-04:00",
+            "author": "Devin",
+            "text": "I sent through the Trade Rec for Limen Masonry on June 19th."
           }
         ],
         "subTrades": [
@@ -728,6 +770,11 @@
             "timestamp": "2025-05-21T20:06:00-04:00",
             "author": "Devin",
             "text": "When we receive the coordinated electrical drawings we can close out the tender."  
+          },
+          {
+            "timestamp": "2025-06-26T17:10:00-04:00",
+            "author": "Devin",
+            "text": "We have the electrical drawings out to the trades but there are outstanding RFI questions Gabriela has to get answered and out to the trades."
           }
         ],
         "subTrades": [
@@ -757,9 +804,19 @@
             "text": "When we receive the final electrical drawings and coordinated drawings we will send out the tender. We will prepare a tender sheet to try and get back reasonable prices to make the tender easier."
           },
           {
-            "timestamp": "2025-05-19T16:39:00-04:00",
+            "timestamp": "2025-06-19T16:39:00-04:00",
             "author": "Devin",
             "text": "Jingwei is asking for hardware for Mill Road so they can combine with Lolita. I sent out today to Citywide + American Hardware + Trillium Hardware. American Hardware declined so that is why I am trying to get a second price from Trillium Hardware. Gave them two weeks to price."
+          },
+          {
+            "timestamp": "2025-06-23T14:57:00-04:00",
+            "author": "Devin",
+            "text": "Trillium Hardware said no. American Hardware said no. We are trying Century, Almar and Wilson Hardware."
+          },
+          {
+            "timestamp": "2025-06-25T14:36:00-04:00",
+            "author": "Devin",
+            "text": "Wilson said no also. Almar needs time, probably early July for Mill Road."
           }
         ],
         "subTrades": [
@@ -776,10 +833,28 @@
             "contact_email": "jminka@americanhardware.ca"
           },
           {
-            "company": "Trillium Hardware",
-            "subTrade_contact": "????",
-            "contact_phone": "416.555.1234",
-            "contact_email": "estimating@trilliumhardware.com"
+            "company": "Trillium Architectural Products Ltd.",
+            "subTrade_contact": "Estimating - or Mark Kavanagh",
+            "contact_phone": "???.???.????",
+            "contact_email": "estimating@trillium.group"
+          },
+          {
+            "company": "Century Builders Hardware Limited",
+            "subTrade_contact": "Frank Simoneta",
+            "contact_phone": "416.789.7061",
+            "contact_email": "centuryh@centuryhardware.com"
+          },
+          {
+            "company": "Allmar Inc.",
+            "subTrade_contact": "Frank Greco",
+            "contact_phone": "416.301.4032",
+            "contact_email": "Frank.Greco@allmar.com"
+          },
+          {
+            "company": "Wilson Architectural Door & Hardware",
+            "subTrade_contact": "Estimating",
+            "contact_phone": "905.564.2112",
+            "contact_email": "mroberto@wilsonhollowmetal.com"
           }
         ]
       },
@@ -1242,13 +1317,18 @@
       {
         "scopeName": "Masonry",
         "division": 4000,
-        "estimator": "Merlita",
+        "estimator": "Merlita / Devin",
         "state": "Active",
         "notes": [
           {
             "timestamp": "2025-05-20T13:12:00-04:00",
             "author": "Devin",
             "text": "Just getting all the final paperwork in order. Ready for a package deal with Mill Road."
+          },
+          {
+            "timestamp": "2025-05-24T11:45:00-04:00",
+            "author": "Devin",
+            "text": "I sent through thet Trade Rec package for Limen Masonry on June 19th."
           }
         ],
         "subTrades": [
@@ -1331,6 +1411,11 @@
             "timestamp": "2025-05-19T10:17:00-04:00",
             "author": "Devin",
             "text": "Meetings are complete. Appears PPM wants a package deal for Mill Road also. Basic Caulking appears in the drivers seat here."
+          },
+          {
+            "timestamp":"2025-05-24T11:48:00-04:00",
+            "author": "Devin",
+            "text": "I sent through the Trade Rec for Basic Caulking on June 19th."
           }
         ],
         "subTrades": [
@@ -1517,6 +1602,33 @@
             "subTrade_contact": "Neal Emby",
             "contact_phone": "416-990-4149",
             "contact_email": "NEmby@lssecurity.com"
+          }
+        ]
+      },
+      {
+        "scopeName": "Hardware",
+        "division": 8000,
+        "estimator": "Ricky",
+        "state": "Active",
+        "notes": [
+          {
+            "timestamp": "2025-06-23T15:08:00-04:00",
+            "author": "Devin",
+            "text": "PPM is asking for additional prices for Lolita. We are reaching out to Almar and Wilson Hardware."
+          }
+        ],
+        "subTrades": [
+          {
+            "company": "Allmar Inc.",
+            "subTrade_contact": "Frank Greco",
+            "contact_phone": "416.301.4032",
+            "contact_email": "Frank.Greco@allmar.com"
+          },
+          {
+            "company": "Wilson Architectural Door & Hardware",
+            "subTrade_contact": "Estimating",
+            "contact_phone": "905.564.2112",
+            "contact_email": "mroberto@wilsonhollowmetal.com"
           }
         ]
       }
