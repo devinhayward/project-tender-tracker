@@ -1208,6 +1208,11 @@
             "timestamp": "2025-05-28T12:05:00-04:00",
             "author": "Devin",
             "text": "CladCo is most competitive here. I would expect the same for Mill Road setting up and potential combo award. Gabriela is working on the analysis."
+          },
+          {
+            "timestamp": "2025-07-03T09:14:00-04:00",
+            "author": "Devin",
+            "text": "I told Gabriela to get this over the finish line for Lolita + Mill Road package."
           }
         ],
         "subTrades": [
@@ -1738,7 +1743,7 @@
         "scopeName": "Hardware",
         "division": 8000,
         "estimator": "Devin",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-19T10:09:00-04:00",
@@ -1769,6 +1774,11 @@
             "timestamp": "2025-06-19T16:36:00-04:00",
             "author": "Devin",
             "text": "Citywide was supposed to send their revised pricing yesterday, but I am still waiting."
+          },
+          {
+            "timestamp": "2025-07-03T09:07:00-04:00",
+            "author": "Devin",
+            "text": "Citywide was awarded the contract yesterday."
           }
         ],
         "subTrades": [
@@ -1796,6 +1806,11 @@
             "timestamp": "2025-05-21T19:24:00-04:00",
             "author": "Devin",
             "text": "We have received the prices but the final SOW is on hold from Rose Corp."
+          },
+          {
+            "timestamp": "2025-07-03T09:09:00-04:00",
+            "author": "Devin",
+            "text": "Ricky is working on getting the analysis together as I assume Rose Corp will want to award this soon."
           }
         ],
         "subTrades": [
@@ -1840,6 +1855,11 @@
             "timestamp": "2025-06-12T16:17:00-04:00",
             "author": "Devin",
             "text": "Rose Corp is pushing Astley Gilbert for the final price based on their final details back and forth recently."
+          },
+          {
+            "timestamp": "2025-07-03T09:12:00-04:00",
+            "author": "Devin",
+            "text": "Final details being worked out with Astley Gilbert. The contract should be awarded soon."
           }
         ],
         "subTrades": [
