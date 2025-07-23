@@ -271,7 +271,7 @@
       {
         "scopeName": "Painting",
         "estimator": "Ricky",
-        "state": "Active",
+        "state": "Awarded",
         "division": 9000,
         "notes": [
           {
@@ -303,6 +303,11 @@
             "timestamp": "2025-06-27T10:36:00-04:00",
             "author": "Devin",
             "text": "Ricky sent the Trade Rec for Snow Painting on Friday June 27th. Waiting on PPM to approve."
+          },
+          {
+            "timestamp": "2025-07-23T08:37:00-04:00",
+            "author": "Devin",
+            "text": "Snow Painting was awarded the contract on Monday July 21."
           }
         ],
         "subTrades": [
@@ -525,6 +530,16 @@
             "timestamp": "2025-06-24T10:35:00-04:00",
             "author": "Devin",
             "text": "We passed the Trade Rec for Citywide Hardware to PPM. They have asked for Additional Prices as they feel the cost should be lower. We have reached out to Almar for additional pricing."
+          },
+          {
+            "timestamp": "2025-07-23T08:42:00-04:00",
+            "author": "Devin",
+            "text": "Citywide Group was awarded the HM Contract on Thursday July 17th."
+          },
+          {
+            "timestamp": "2025-07-23T08:44:00-04:00",
+            "author": "Devin",
+            "text": "We are chasing Almar for their Hardware pricing. Most likely then we can award to Citywide Group."
           }
         ],
         "subTrades": [
