@@ -637,7 +637,7 @@
         "scopeName": "Masonry",
         "division": 4000,
         "estimator": "Gabriela",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-21T08:51:00-04:00",
@@ -663,6 +663,11 @@
             "timestamp":"2025-05-24T11:49:00-04:00",
             "author": "Devin",
             "text": "I sent through the Trade Rec for Limen Masonry on June 19th."
+          },
+          {
+            "timestamp": "2025-07-24T09:15:00-04:00",
+            "author": "Devin",
+            "text": "Was awareded to Limen Masonry yesterday Wednesday July 23rd."
           }
         ],
         "subTrades": [
@@ -1359,6 +1364,11 @@
             "timestamp": "2025-05-24T11:45:00-04:00",
             "author": "Devin",
             "text": "I sent through thet Trade Rec package for Limen Masonry on June 19th."
+          },
+          {
+            "timestamp": "2025-07-24T09:17:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to Limen Masonry yesterday Wednesday July 23rd."
           }
         ],
         "subTrades": [
