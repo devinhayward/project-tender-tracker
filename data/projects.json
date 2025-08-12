@@ -516,7 +516,7 @@
             "company": "The Fireplace Company",
             "subTrade_contact": "Benson",
             "contact_phone": "416.998.1169",
-            "contact_email": "info@thefireplacecompany"
+            "contact_email": "info@thefireplacecompany.com"
           }
         ]
       },
@@ -998,7 +998,7 @@
             "timestamp": "2025-07-31T11:18:00-04:00",
             "author": "Devin",
             "text": "Was awarded to RJB Insulation."
-          
+          }
         ],
         "subTrades": [
           {
@@ -1038,7 +1038,7 @@
             "text": "We received the prices today as Tender Close was today."
           },
           {
-            "timestamp": "2025-06-31T11:19:00-04:00",
+            "timestamp": "2025-07-31T11:19:00-04:00",
             "author": "Devin",
             "text": "Gabriela has had all the meetings. We should be able to get the Trade Rec out in the coming weeks."
           }
@@ -1088,7 +1088,7 @@
             "text": "Will send out this tender when we have Balliol Flooring Finalized."
           },
           {
-            "timestamp": "2025-06-31T11:33:00-04:00",
+            "timestamp": "2025-07-31T11:33:00-04:00",
             "author": "Devin",
             "text": "Merlita has sent out the Flooring tender. The trades are working on it and it is expected to Close Thursday August 7th."
           }
@@ -1115,7 +1115,7 @@
         "state": "Active",
         "notes": [
           {
-            "timestamp": "2025-06-31T11:47:00-04:00",
+            "timestamp": "2025-07-31T11:47:00-04:00",
             "author": "Devin",
             "text": "Ricky sent out the Tender this week, and we gave them x3 weeks to close."
           }
