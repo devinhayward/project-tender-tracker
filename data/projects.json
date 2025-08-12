@@ -523,7 +523,7 @@
       {
         "scopeName": "Door & Hardware",
         "estimator": "Gabriela",
-        "state": "Active",
+        "state": "Awarded",
         "division": 8000,
         "notes": [
           {
@@ -540,6 +540,11 @@
             "timestamp": "2025-07-23T08:44:00-04:00",
             "author": "Devin",
             "text": "We are chasing Almar for their Hardware pricing. Most likely then we can award to Citywide Group."
+          },
+          {
+            "timestamp": "2025-08-12T14:16:00-04:00",
+            "author": "Devin",
+            "text": "Citywide Group was awarded the Hardware Contract today, Tuesday Aug 12th."
           }
         ],
         "subTrades": [
@@ -637,7 +642,7 @@
         "scopeName": "Masonry",
         "division": 4000,
         "estimator": "Gabriela",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-21T08:51:00-04:00",
@@ -663,6 +668,11 @@
             "timestamp":"2025-05-24T11:49:00-04:00",
             "author": "Devin",
             "text": "I sent through the Trade Rec for Limen Masonry on June 19th."
+          },
+          {
+            "timestamp": "2025-07-24T09:15:00-04:00",
+            "author": "Devin",
+            "text": "Was awareded to Limen Masonry yesterday Wednesday July 23rd."
           }
         ],
         "subTrades": [
@@ -717,6 +727,11 @@
             "timestamp": "2025-06-12T16:33:00-04:00",
             "author": "Devin",
             "text": "Gabriela and Devin have an internal meeting with Alugard on Monday Morning at 10am."
+          },
+          {
+            "timestamp": "2025-07-31T10:56:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela had a meeting with Toro Windows yesterday Wednesday July 30th. They will confrim a few things and get back to us. We are also working on getting Sky Windows qualified fully. May be able to send the Trade Rec next week for Sky Windows."
           }
         ],
         "subTrades": [
@@ -800,6 +815,11 @@
             "timestamp": "2025-06-26T17:10:00-04:00",
             "author": "Devin",
             "text": "We have the electrical drawings out to the trades but there are outstanding RFI questions Gabriela has to get answered and out to the trades."
+          },
+          {
+            "timestamp": "2025-07-23T08:39:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela is chasing the final quotes from ONeil Electric and Litemode."
           }
         ],
         "subTrades": [
@@ -842,6 +862,11 @@
             "timestamp": "2025-06-25T14:36:00-04:00",
             "author": "Devin",
             "text": "Wilson said no also. Almar needs time, probably early July for Mill Road."
+          },
+          {
+            "timestamp": "2025-07-31T11:15:00-04:00",
+            "author": "Devin",
+            "text": "Gabrilea is chasing the final quotes from Citywide + Century + Almar. Need to deal with next week as Joe Frias needs the hardware."
           }
         ],
         "subTrades": [
@@ -887,7 +912,7 @@
         "scopeName": "Caulking",
         "division": 7000,
         "estimator": "Merlita",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-21T19:55:00-04:00",
@@ -908,6 +933,11 @@
             "timestamp": "2025-06-19T16:32:00-04:00",
             "author": "Devin",
             "text": "I sent out the package Trade Rec for Mill Road + Lolita for Basic Caulking today."
+          },
+          {
+            "timestamp": "2025-07-31T11:17:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to Basic Caulking."
           }
         ],
         "subTrades": [
@@ -947,7 +977,7 @@
         "scopeName": "Misc Insulation",
         "division": 7000,
         "estimator": "Merlita",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-21T20:01:00-04:00",
@@ -963,7 +993,12 @@
             "timestamp": "2025-06-12T16:37:00-04:00",
             "author": "Devin",
             "text": "Merlita has a meeting scheduled with RJB Insulation on June 24th at 10:30am."
-          }
+          },
+          {
+            "timestamp": "2025-07-31T11:18:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to RJB Insulation."
+          
         ],
         "subTrades": [
           {
@@ -1001,6 +1036,11 @@
             "timestamp": "2025-06-12T16:28:00-04:00",
             "author": "Devin",
             "text": "We received the prices today as Tender Close was today."
+          },
+          {
+            "timestamp": "2025-06-31T11:19:00-04:00",
+            "author": "Devin",
+            "text": "Gabriela has had all the meetings. We should be able to get the Trade Rec out in the coming weeks."
           }
         ],
         "subTrades": [
@@ -1039,13 +1079,18 @@
       {
         "scopeName": "Flooring",
         "division": 9000,
-        "estimator": "TBD",
-        "state": "Not Active",
+        "estimator": "Merlita / Devin",
+        "state": "Active",
         "notes": [
           {
             "timestamp": "2025-05-21T20:15:00-04:00",
             "author": "Devin",
             "text": "Will send out this tender when we have Balliol Flooring Finalized."
+          },
+          {
+            "timestamp": "2025-06-31T11:33:00-04:00",
+            "author": "Devin",
+            "text": "Merlita has sent out the Flooring tender. The trades are working on it and it is expected to Close Thursday August 7th."
           }
         ],
         "subTrades": [
@@ -1067,8 +1112,14 @@
         "scopeName": "Carpentry",
         "division": 6000,
         "estimator": "Ricky",
-        "state": "Not Active",
-        "notes": [],
+        "state": "Active",
+        "notes": [
+          {
+            "timestamp": "2025-06-31T11:47:00-04:00",
+            "author": "Devin",
+            "text": "Ricky sent out the Tender this week, and we gave them x3 weeks to close."
+          }
+        ],
         "subTrades": [
           {
             "company": "Matera",
@@ -1093,7 +1144,7 @@
       {
         "scopeName": "Drywall",
         "division": 9000,
-        "estimator": "Gabriela",
+        "estimator": "Devin",
         "state": "Active",
         "notes": [
           {
@@ -1120,6 +1171,11 @@
             "timestamp": "2025-06-19T16:30:00-04:00",
             "author": "Devin",
             "text": "We should have prices from Torino, and Cobell by Monday."
+          },
+          {
+            "timestamp": "2025-07-31T11:48:00-04:00",
+            "author": "Devin",
+            "text": "I had scope review meetings this week. Working on the final details and hope to get the Trade Rec out ASAP."
           }
         ],
         "subTrades": [
@@ -1206,7 +1262,7 @@
       {
         "scopeName": "Metal Cladding",
         "division": 7000,
-        "estimator": "Gabriela",
+        "estimator": "Merlita",
         "state": "Active",
         "notes": [
           {
@@ -1228,6 +1284,11 @@
             "timestamp": "2025-07-03T09:14:00-04:00",
             "author": "Devin",
             "text": "I told Gabriela to get this over the finish line for Lolita + Mill Road package."
+          },
+          {
+            "timestamp": "2025-07-31T11:31:00-04:00",
+            "author": "Devin",
+            "text": "Merlita is working on the final details / analysis."
           }
         ],
         "subTrades": [
@@ -1348,7 +1409,7 @@
         "scopeName": "Masonry",
         "division": 4000,
         "estimator": "Merlita / Devin",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-20T13:12:00-04:00",
@@ -1359,6 +1420,11 @@
             "timestamp": "2025-05-24T11:45:00-04:00",
             "author": "Devin",
             "text": "I sent through thet Trade Rec package for Limen Masonry on June 19th."
+          },
+          {
+            "timestamp": "2025-07-24T09:17:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to Limen Masonry yesterday Wednesday July 23rd."
           }
         ],
         "subTrades": [
@@ -1392,7 +1458,7 @@
         "scopeName": "Misc Insulation",
         "division": 7000,
         "estimator": "Merlita",
-        "state": "Active",
+        "state": "Awarded",
         "notes": [
           {
             "timestamp": "2025-05-19T10:19:00-04:00",
@@ -1408,6 +1474,11 @@
             "timestamp": "2025-05-28T12:08:00-04:00",
             "author": "Devin",
             "text": "Merlita is working on the anlaysis. We got the final pricing from RJB Insulation. I will review everything and then we should be ready for Trade Rec."
+          },
+          {
+            "timestamp": "2025-06-12T16:30:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to RJB Insulation on July 31_2025."
           }
         ],
         "subTrades": [
