@@ -18,6 +18,11 @@
             "timestamp": "2025-06-23T10:11:00-04:00",
             "author": "Devin",
             "text": "Merlita is waiting on the samples for the Draperies from CA Blinds. Then final approvals and award. Maybe before end of next week."
+          },
+          {
+            "timestamp": "2025-10-08T10:05:00-04:00",
+            "author": "Devin",
+            "text": "Merlita has sent the Trade Rec to PPM for CA Blinds yesterday. Waiting on their approval."
           }
         ],
         "subTrades": [
@@ -102,7 +107,7 @@
       {
         "scopeName": "Misc Glazing",
         "estimator": "Ricky / Austin",
-        "state": "Active",
+        "state": "Awarded",
         "division": 10000,
         "notes": [
           {
@@ -124,6 +129,11 @@
             "timestamp": "2025-06-12T11:55:00-04:00",
             "author": "Devin",
             "text": "Devin and Ricky had meetings with Metro + Keystone to get the scope stratight as per spec. Metro has resubmitted but we are chasing Keystone."
+          },
+          {
+            "timestamp": "2025-10-08T10:04:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to Metropolitan on Sept 24th."
           }
         ],
         "subTrades": [
@@ -357,6 +367,11 @@
             "timestamp": "2025-05-26T16:34:00-04:00",
             "author": "Devin",
             "text": "Waiting on Amir(PM) for the final SOW + final pricing from Max OH Doors. Then final paperwork and Trade Rec."
+          },
+          {
+            "timestamp": "2025-10-08T10:01:00-04:00",
+            "author": "Devin",
+            "text": "Ricky working on finalizing the Trade Rec Package and then we will send to PPM."
           }
         ],
         "subTrades": [
@@ -449,7 +464,7 @@
       {
         "scopeName": "Landscaping",
         "estimator": "Ricky",
-        "state": "Active",
+        "state": "Awarded",
         "division": 2000,
         "notes": [
           {
@@ -476,6 +491,11 @@
             "timestamp": "2025-06-12T11:52:00-04:00",
             "author": "Devin",
             "text": "Qualification meeting with Orin is happening as we speak. A few revisions required from CRCE. Then contract should be ready to award. Should be below budget."
+          },
+          {
+            "timestamp": "2025-10-08T10:00:00-04:00",
+            "author": "Devin",
+            "text": "Was awarded to CRCE on Wednesday Oct 1st."
           }
         ],
         "subTrades": [
