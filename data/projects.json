@@ -6,7 +6,7 @@
       {
         "scopeName": "Window Coverings",
         "estimator": "Merlita",
-        "state": "Active",
+        "state": "Awarded",
         "division": 12000,
         "notes": [
           {
@@ -23,6 +23,11 @@
             "timestamp": "2025-10-08T10:05:00-04:00",
             "author": "Devin",
             "text": "Merlita has sent the Trade Rec to PPM for CA Blinds yesterday. Waiting on their approval."
+          },
+          {
+            "timestamp": "2025-11-17T10:54:00-04:00",
+            "author": "Devin",
+            "text": "PPM sent over a signed Trade Rec for CA Blinds. We are trying to get confirmation from BDPQ about the Draperies. A little difficult but this should give the final contract."
           }
         ],
         "subTrades": [
